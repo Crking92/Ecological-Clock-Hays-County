@@ -1,0 +1,1007 @@
+species_id,scientific_name,common_name,habit,duration,bloom_months_raw,bloom_start_month,bloom_end_month,bloom_months_standardized,spring_bloom,summer_bloom,fall_bloom,winter_bloom,water_use,light_requirement,soil_moisture,attracts,larval_host_for,special_value,timing_source,confidence_grade
+PLANT_00001,Abutilon fruticosum,Texas Indian mallow,Herb,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,Low,Sun,Dry,"Birds , Butterflies",Larval plant food for several species of skipper butterflies.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00002,Abutilon incanum,Abutilon incanum (Link) Sweet,Shrub,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,Butterflies,"Texas Powdered Skipper, Common Streaky-Skipper",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00003,Acaciella angustissima,prairie acacia,Subshrub,Perennial,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,"Low , Medium","Sun , Part Shade , Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00004,Acaciella angustissima var. hirta,prairie acacia,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00005,Acalypha ostryifolia,pineland threeseed mercury,Herb,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00006,Acalypha phleoides,shrubby copperleaf,Herb,Perennial,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00007,Acalypha radians,Acalypha radians Torr.,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00008,Acer negundo,boxelder,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Medium,Sun,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00009,Achillea millefolium,common yarrow,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Medium,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00010,Acleisanthes longiflora,Acleisanthes longiflora A. Gray,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00011,Adiantum capillus-veneris,common maidenhair,Fern,Perennial,,,,,no,no,no,no,"Medium , High","Part Shade , Shade","Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00012,Aesculus pavia,red buckeye,"Shrub,Tree",Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,"Medium , High",Part Shade,Moist,Hummingbirds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00013,Aesculus pavia var. pavia,red buckeye,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00014,Agalinis densiflora,Osage false foxglove,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00015,Agalinis edwardsiana,plateau false foxglove,Herb,Annual,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,Part Shade,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00016,Agalinis fasciculata,beach false foxglove,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00017,Agalinis heterophylla,prairie false foxglove,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,Part Shade,"Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00018,Ageratina altissima,Ageratina altissima (L.) King & H. Rob.,Herb,Perennial,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Low,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00019,Ageratina havanensis,Havana snakeroot,Shrub,Perennial,"Apr , May , Jun , Jul , Sep , Oct , Nov , Dec",Apr,Dec,Apr;May;Jun;Jul;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,"Sun , Part Shade",Dry,"Butterflies , Hummingbirds",Rawson's Metalmark,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00020,Ajuga reptans,common bugle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00021,Albizia julibrissin,silktree,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00022,Allium canadense,meadow garlic,Grass/Grass-like,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Medium,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00023,Allium canadense var. canadense,meadow garlic,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00024,Allium drummondii,Drummond's onion,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00025,Allowissadula holosericea,Chisos Mountain false Indianmallow,Shrub,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,Part Shade,Moist,Butterflies,"Common Checkered Skipper, Texas Powdered Skipper, Common Streaky-Skipper",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00026,Aloysia gratissima,whitebrush,Shrub,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,"Sun , Part Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00027,Amaranthus albus,prostrate pigweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00028,Amaranthus blitoides,mat amaranth,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00029,Amaranthus palmeri,Amaranthus palmeri S. Watson,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00030,Amaranthus polygonoides,tropical amaranth,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00031,Amaranthus retroflexus,redroot amaranth,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00032,Amaranthus scleropoides,bonebract amaranth,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00033,Amaranthus spinosus,spiny amaranth,Herb,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00034,Ambrosia artemisiifolia,Ambrosia artemisiifolia L.,Herb,Annual,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,"Sun , Part Shade , Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00035,Ambrosia psilostachya,Cuman ragweed,Herb,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00036,Ambrosia trifida,great ragweed,Subshrub,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,"Part Shade , Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00037,Ammannia auriculata,Ammannia auriculata Willd.,Herb,Annual,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00038,Ammannia coccinea,valley redstem,Herb,Annual,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00039,Amorpha fruticosa,false indigo bush,Shrub,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Moist,Butterflies,"California & southern dogfaces, Silver-spotted Skipper (Epargyreus clarus), Gray hairstreak, Hoary edge skipper.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00040,Amorpha roemeriana,Roemer's false indigo,Shrub,Perennial,Apr,Apr,Apr,Apr,yes,no,no,no,,Part Shade,"Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00041,Ampelopsis cordata,heartleaf peppervine,Vine,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00042,Amphiachyris amoena,Texas broomweed,Herb,Annual,"Sep , Oct",Sep,Oct,Sep;Oct,no,no,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00043,Amphiachyris dracunculoides,prairie broomweed,Herb,Annual,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00044,Amsonia ciliata,fringed bluestar,Herb,Perennial,Jun,Jun,Jun,Jun,no,yes,no,no,,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00045,Amsonia longiflora,Amsonia longiflora Torr.,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00046,Andropogon gerardii,big bluestem,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,"Low , Medium","Sun , Part Shade",Moist,"Birds , Butterflies","Delaware Skipper, Dusted Skipper",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00047,Andropogon glomeratus,bushy bluestem,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,High,Sun,"Moist , Wet","Birds , Butterflies","Skippers, Satyrs",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00048,Andropogon virginicus,broomsedge bluestem,Grass/Grass-like,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Medium,Part Shade,Moist,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00049,Andropogon virginicus var. virginicus,broomsedge bluestem,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00050,Androstephium coeruleum,blue funnel lily,Herb,Perennial,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00051,Anemia mexicana,Mexican fern,"Herb,Fern",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00052,Anemone berlandieri,tenpetal thimbleweed,Herb,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00053,Anemone caroliniana,Anemone caroliniana Walter,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00054,Anemone edwardsiana,Anemone edwardsiana Tharp var. edwardsiana,Herb,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00055,Anoda crenatiflora,thicket anoda,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00056,Anoda cristata,crested anoda,Herb,Annual,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00057,Anthemis cotula,stinking chamomile,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00058,Aphanostephus riddellii,Riddell's dozedaisy,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00059,Aphanostephus skirrhobasis,Arkansas dozedaisy,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00060,Aphanostephus skirrhobasis var. skirrhobasis,Arkansas dozedaisy,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00061,Aquilegia canadensis,red columbine,Herb,Perennial,"Feb , Mar , Apr , May , Jun , Jul",Feb,Jul,Feb;Mar;Apr;May;Jun;Jul,yes,yes,no,yes,"Low , Medium","Part Shade , Shade","Dry , Moist","Birds , Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00062,Arabis petiolaris,Arabis petiolaris (A. Gray) A. Gray,Herb,Annual,"Apr , May",Apr,May,Apr;May,yes,no,no,no,,Sun,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00063,Arbutus xalapensis,Texas madrone,Tree,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Medium,"Sun , Part Shade",Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00064,Arenaria benthamii,hilly sandwort,Herb,Annual,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00065,Argemone albiflora,bluestem pricklypoppy,Herb,Annual,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00066,Argemone aurantiaca,Texas pricklypoppy,Herb,"Annual,Biennial","Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00067,Argyrochosma dealbata,powdery false cloak fern,"Herb,Fern",Perennial,,,,,no,no,no,no,Medium,Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00068,Argythamnia aphoroides,Hill Country silverbush,Herb,Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul",Jan,Jul,Jan;Feb;Mar;Apr;May;Jun;Jul,yes,yes,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00069,Argythamnia humilis,low silverbush,Subshrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00070,Argythamnia simulans,plateau silverbush,Herb,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00071,Arisaema dracontium,Arisaema dracontium (L.) Schott,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,"Sun , Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00072,Aristida oligantha,prairie threeawn,Grass/Grass-like,Annual,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,,Sun,Dry,Butterflies,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00073,Aristida purpurea,purple threeawn,Grass/Grass-like,Annual,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,Butterflies,"Skippers, Satyrs",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00074,Aristida purpurea var. nealleyi,blue threeawn,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00075,Aristolochia erecta,Aristolochia erecta L.,"Herb,Vine",Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,"Low , Medium","Sun , Part Shade",Moist,Butterflies,Pipevine swallowtail,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00076,Aristolochia serpentaria,Virginia snakeroot,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,Shade,Dry,Butterflies,Pipevine swallowtail butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00077,Arnoglossum plantagineum,groovestem Indian plantain,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,Medium,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00078,Artemisia ludoviciana,white sagebrush,Subshrub,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00079,Asclepias asperula,spider milkweed,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Sun,"Dry , Moist",Butterflies,"Monarchs, Queens",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00080,Asclepias oenotheroides,zizotes milkweed,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Sun,Dry,Butterflies,Monarch butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00081,Asclepias texana,Asclepias texana A. Heller,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00082,Asclepias viridiflora,green comet milkweed,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00083,Asclepias viridis,green antelopehorn,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00084,Asplenium resiliens,blackstem spleenwort,"Herb,Fern",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00085,Astragalus crassicarpus,groundplum milkvetch,Herb,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00086,Astragalus crassicarpus var. berlandieri Barneby,groundplum milkvetch,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00087,Astragalus leptocarpus,rare loco milkvetch,Herb,Annual,Apr,Apr,Apr,Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00088,Astragalus lindheimeri,Lindheimer's milkvetch,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00089,Astragalus nuttallianus,smallflowered milkvetch,Herb,Annual,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00090,Astragalus nuttallianus var. nuttallianus,smallflowered milkvetch,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00091,Astragalus plattensis,Astragalus plattensis Nutt.,Herb,Perennial,,,,,no,no,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00092,Astragalus pleianthus,Edwards Plateau milkvetch,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00093,Atriplex canescens,Atriplex canescens (Pursh) Nutt.,Shrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00094,Avena fatua,wild oat,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00095,Azolla caroliniana,Carolina mosquitofern,Fern,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00096,Baccharis neglecta,Rooseveltweed,Shrub,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00097,Bacopa monnieri,herb of grace,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,High,"Sun , Part Shade","Moist , Wet",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00098,Bellardia trixago,Mediterranean lineseed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00099,Berlandiera betonicifolia,Texas greeneyes,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00100,Bernardia myricifolia,mouse's eye,Shrub,Perennial,"Apr , May , Oct , Nov",Apr,Nov,Apr;May;Oct;Nov,yes,no,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00101,Bidens laevis,smooth beggartick,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,High,"Sun , Part Shade","Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00102,Bifora americana,Bifora americana Benth. & Hook. f. ex S. Watson,Herb,Annual,,,,,no,no,no,no,,"Sun , Part Shade",,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00103,Bifora americana f. ex S,prairie bishop,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00104,Boehmeria cylindrica,smallspike false nettle,Herb,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,"Sun , Part Shade , Shade",Moist,Butterflies,"Eastern Comma, Red Admiral",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00105,Boerhavia coccinea,Boerhavia coccinea Mill.,Herb,Perennial,"Mar , Apr , May , Jun , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00106,Boerhavia linearifolia,narrowleaf spiderling,Subshrub,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00107,Boltonia diffusa,smallhead doll's daisy,Herb,Perennial,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,"Dry , Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00108,Boltonia diffusa var. diffusa,smallhead doll's daisy,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00109,Bothriochloa barbinodis,cane bluestem,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Medium,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00110,Bothriochloa ischaemum,yellow bluestem,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00111,Bothriochloa ischaemum var. songarica,yellow bluestem,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00112,Bothriochloa laguroides,silver beardgrass,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00113,Bouchetia erecta,paintedtongue,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00114,Bouteloua curtipendula,sideoats grama,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Medium,"Sun , Part Shade","Dry , Moist","Birds , Butterflies","Green Skipper butterfly, Dotted Skipper butterfly",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00115,Bouteloua curtipendula var. caespitosa Gould,sideoats grama,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00116,Bouteloua curtipendula var. curtipendula,sideoats grama,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00117,Bouteloua dactyloides,buffalograss,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Apr,Dec,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,"Low , Medium",Sun,Dry,"Birds , Butterflies",Green Skipper butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00118,Bouteloua hirsuta,hairy grama,Grass/Grass-like,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,Dry,Butterflies,"Orange giant skipper, Green Skipper.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00119,Bouteloua hirsuta var. hirsuta,hairy grama,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00120,Bouteloua hirsuta var. pectinata,tall grama,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00121,Bouteloua rigidiseta,Texas grama,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,Sun,Dry,"Birds , Butterflies","Branded skippers, Satyrs",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00122,Bouteloua trifida,red grama,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00123,Brickellia cylindracea,gravelbar brickellbush,Herb,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Low,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00124,Brickellia dentata,leafy brickellbush,Subshrub,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00125,Brickellia eupatorioides,Brickellia eupatorioides (L.) Shinners var. gracillima (A. Gray) B.L. Turner,"Herb,Subshrub",Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00126,Briza minor,little quakinggrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00127,Bromus catharticus,rescuegrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00128,Bromus pubescens,hairy woodland brome,Grass/Grass-like,Perennial,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00129,Bromus texensis,Bromus texensis (Shear) Hitchc.,Grass/Grass-like,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00130,Broussonetia papyrifera,paper mulberry,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00131,Buchnera americana,Buchnera americana L.,Herb,Annual,,,,,no,no,no,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00132,Buddleja racemosa,wand butterflybush,Shrub,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00133,Buglossoides arvensis,corn gromwell,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00134,Cabomba caroliniana,Carolina fanwort,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00135,Cabomba caroliniana var. caroliniana,Carolina fanwort,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00136,Callicarpa americana,American beautyberry,Shrub,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Moist,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00137,Callirhoe digitata,Callirhoe digitata Nutt.,Herb,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00138,Callirhoe involucrata,purple poppymallow,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Medium,"Sun , Part Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00139,Callirhoe leiocarpa,tall poppymallow,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00140,Callirhoe pedata,palmleaf poppymallow,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00141,Calylophus berlandieri,Berlandier's sundrops,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00142,Calylophus serrulatus,yellow sundrops,Herb,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00143,Calyptocarpus vialis,straggler daisy,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,"Low , Medium","Sun , Part Shade , Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00144,Camassia scilloides,Atlantic camas,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Medium,"Part Shade , Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00145,Campsis radicans,Campsis radicans (L.) Seem. ex Bureau,Vine,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,Low,Sun,"Dry , Moist",Hummingbirds,TrumpetVineSphinx Moth (Paratraea plebeja),,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00146,Capsella bursa-pastoris,shepherd's purse,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00147,Capsicum annuum,Capsicum annuum L.,Herb,"Annual,Perennial","May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,"Sun , Part Shade , Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00148,Carex blanda,eastern woodland sedge,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,High,"Sun , Part Shade , Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00149,Carex crus-corvi,ravenfoot sedge,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00150,Carex edwardsiana,Edwards Plateau sedge,Grass/Grass-like,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00151,Carex emoryi,Carex emoryi Dewey,Grass/Grass-like,Perennial,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,,"Sun , Part Shade",Wet,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00152,Carex microdonta,littletooth sedge,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00153,Carex perdentata,sand sedge,Grass/Grass-like,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00154,Carex planostachys,cedar sedge,Grass/Grass-like,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00155,Carphochaete bigelovii,Carphochaete bigelovii A. Gray,Subshrub,Perennial,"Jan , Feb , Mar , Apr , May , Jun",Jan,Jun,Jan;Feb;Mar;Apr;May;Jun,yes,yes,no,yes,Medium,"Sun , Part Shade",,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00156,Carya illinoinensis,pecan,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,High,Sun,Moist,Butterflies,Gray hairstreak butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00157,Castilleja indivisa,entireleaf Indian paintbrush,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Sun,Dry,Butterflies,Buckeye butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00158,Castilleja purpurea,downy Indian paintbrush,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00159,Castilleja purpurea var. lindheimeri,Lindheimer's Indian paintbrush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00160,Catalpa speciosa,northern catalpa,Tree,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Low,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00161,Ceanothus herbaceus,Jersey tea,Shrub,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00162,Celosia nitida,West Indian cock's comb,Herb,Perennial,"Sep , Oct , Nov , Dec",Sep,Dec,Sep;Oct;Nov;Dec,no,no,yes,yes,,Sun,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00163,Celtis ehrenbergiana,spiny hackberry,Shrub,Perennial,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,Low,"Sun , Part Shade",Dry,"Birds , Butterflies",American Snout butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00164,Celtis laevigata,sugarberry,"Shrub,Tree",Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00165,Celtis laevigata var. reticulata,netleaf hackberry,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00166,Celtis lindheimeri,Celtis lindheimeri Engelm. ex K. Koch,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,"Low , Medium",Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00167,Cenchrus spinifex,Cenchrus spinifex Cav.,Grass/Grass-like,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Low,"Sun , Part Shade","Dry , Moist",,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00168,Centaurea americana,American star-thistle,Herb,Annual,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00169,Centaurea cyanus,garden cornflower,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00170,Centaurea melitensis,Maltese star-thistle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00171,Centaurium beyrichii,quinineweed,Herb,Annual,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00172,Centaurium calycosum,Centaurium calycosum (Buckley) Fernald,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00173,Centaurium texense,Lady Bird's centaury,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,"Sun , Part Shade",,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00174,Centella erecta,erect centella,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00175,Cephalanthus occidentalis,common buttonbush,Shrub,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,High,"Part Shade , Shade","Moist , Wet","Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00176,Cerastium brachypodum,shortstalk chickweed,Herb,"Annual,Perennial","Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00177,Cerastium glomeratum,sticky chickweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00178,Ceratophyllum demersum,coon's tail,Herb,Perennial,,,,,no,no,no,no,High,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00179,Ceratopteris thalictroides,watersprite,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00180,Cercis canadensis,eastern redbud,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,"Low , Medium","Sun , Part Shade",Dry,Butterflies,Henry's Elfin butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00181,Cercis canadensis var. texensis,Texas redbud,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00182,Chaerophyllum tainturieri,hairyfruit chervil,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00183,Chaetopappa bellidifolia,whiteray leastdaisy,Herb,Annual,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,High,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00184,Chaetopappa effusa,Chaetopappa effusa (A. Gray) Shinners,Subshrub,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00185,Chamaecrista fasciculata,partridge pea,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,"Sun , Part Shade","Dry , Moist","Birds , Butterflies","Cloudless giant sulphur, Orange sulphur, Sleepy orange butterflies.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00186,Chamaecrista fasciculata var. fasciculata,partridge pea,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00187,Chamaesaracha coniodes,Chamaesaracha coniodes (Moric. ex Dunal) Britton,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00188,Chamaesaracha coronopus,Chamaesaracha coronopus (Dunal) A. Gray,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00189,Chamaesaracha edwardsiana,Edwards Plateau five eyes,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,"Sun , Part Shade",,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00190,Chamaesyce angusta,blackfoot sandmat,Herb,Perennial,"Mar , Apr , May , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Sep;Oct;Nov,yes,no,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00191,Chamaesyce fendleri,Fendler's sandmat,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00192,Chamaesyce hyssopifolia,hyssopleaf sandmat,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00193,Chamaesyce nutans,eyebane,Herb,Annual,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00194,Chamaesyce prostrata,prostrate sandmat,Herb,Annual,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00195,Chamaesyce serpens,matted sandmat,Herb,Annual,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00196,Chamaesyce villifera,hairy sandmat,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00197,Chaptalia texana,silverpuff,Herb,Perennial,"Mar , Apr , May , Jun , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,"Part Shade , Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00198,Chasmanthium latifolium,Indian woodoats,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,Medium,"Part Shade , Shade",Moist,Butterflies,"Pepper & salt skipper butterfly, Bell's road side skipper butterfly, Bronzed roadside skipper butterfly",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00199,Cheilanthes alabamensis,Alabama lipfern,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00200,Cheilanthes horridula,rough lipfern,Fern,Perennial,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00201,Chloracantha spinosa,spiny chloracantha,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",May,Dec,May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00202,Chloris,Chloris ×subdolichostachya Müll. Berol. (pro sp.),Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00203,Chloris andropogonoides,slimspike windmill grass,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00204,Chloris cucullata,Chloris cucullata Bisch.,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,Part Shade,Moist,Butterflies,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00205,Chloris verticillata,tumble windmill grass,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,"Sun , Part Shade",,Butterflies,The Grass Family is an essential larval host for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00206,Chloris ×subdolichostachya,shortspike windmill grass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00207,Chrysopsis texana,Texas chrysopsis,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00208,Cirsium ochrocentrum,yellowspine thistle,Herb,Biennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00209,Cirsium texanum,Texas thistle,Herb,Biennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,Birds,Painted Lady,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00210,Cirsium vulgare,bull thistle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00211,Cissus trifoliata,Cissus trifoliata (L.) L.,Vine,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00212,Cladium mariscus,Cladium mariscus (L.) Pohl ssp. jamaicense (Crantz) Kük.,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,"Sun , Part Shade","Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00213,Clematis drummondii,Drummond's clematis,Vine,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,"Sun , Part Shade","Dry , Moist",Butterflies,Fatal metalmark butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00214,Clematis pitcheri,bluebill,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00215,Clematis pitcheri var. pitcheri,bluebill,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00216,Clematis reticulata,Clematis reticulata Walter,Vine,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,"Sun , Part Shade",,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00217,Clematis texensis,Clematis texensis Buckley,Vine,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00218,Cnidoscolus texanus,Texas bullnettle,Herb,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00219,Cocculus carolinus,Carolina coralbead,Vine,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,Low,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00220,Colocasia esculenta,coco yam,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00221,Colubrina texensis,Texan hogplum,Shrub,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00222,Commelina erecta,whitemouth dayflower,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Part Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00223,Condalia hookeri,Brazilian bluewood,"Shrub,Tree",Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,"Birds , Butterflies",Snout butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00224,Conoclinium coelestinum,blue mistflower,Herb,Perennial,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Medium,"Sun , Part Shade",Moist,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00225,Consolida ajacis,doubtful knight's-spur,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00226,Convolvulus equitans,Texas bindweed,Vine,Annual,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00227,Conyza canadensis,Conyza canadensis (L.) Cronquist,Herb,Annual,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Medium,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00228,Cooperia drummondii,Cooperia drummondii Herb.,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Medium,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00229,Cooperia pedunculata,prairie lily,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00230,Corallorhiza wisteriana,spring coralroot,Herb,Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul",Jan,Jul,Jan;Feb;Mar;Apr;May;Jun;Jul,yes,yes,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00231,Coreopsis basalis,goldenmane tickseed,Herb,Annual,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00232,Coreopsis tinctoria,golden tickseed,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,High,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00233,Coreopsis wrightii,rock tickseed,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00234,Coriandrum sativum,coriander,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00235,Cornus drummondii,roughleaf dogwood,Tree,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,Low,"Part Shade , Shade","Dry , Moist","Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00236,Cortaderia selloana,Uruguayan pampas grass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00237,Corydalis curvisiliqua,curvepod fumewort,Herb,"Annual,Biennial",,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00238,Corydalis micrantha,smallflower fumewort,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00239,Coryphantha sulcata,pineapple cactus,Cactus/Succulent,Perennial,"Feb , Mar",Feb,Mar,Feb;Mar,yes,no,no,yes,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00240,Cotinus obovatus,American smoketree,Tree,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00241,Crataegus viridis,green hawthorn,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00242,Crataegus viridis var. viridis,green hawthorn,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00243,Croton capitatus,hogwort,Herb,Annual,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,Butterflies,"Anaea andria, Goatweed Leafwing",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00244,Croton capitatus var. lindheimeri,Lindheimer's hogwort,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00245,Croton fruticulosus,bush croton,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00246,Croton lindheimerianus,Croton lindheimerianus Scheele,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00247,Croton monanthogynus,prairie tea,Herb,Annual,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,"Dry , Moist",Butterflies,"Anaea andria, Goatweed Leafwing",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00248,Croton texensis,Croton texensis (Klotzsch) Müll. Arg.,Herb,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,Butterflies,"Anaea andria, Goatweed Leafwing",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00249,Cryptantha texana,pick me nots,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00250,Cryptocoryne beckettii,Beckett's water trumpet,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00251,Cucurbita foetidissima,Missouri gourd,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,Low,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00252,Cuscuta exaltata,tall dodder,Vine,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00253,Cuscuta indecora,bigseed alfalfa dodder,"Herb,Vine",Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00254,Cuscuta obtusiflora,Peruvian dodder,"Herb,Vine","Annual,Perennial","Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00255,Cuscuta pentagona,fiveangled dodder,Vine,Annual,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00256,Cyclanthera naudiniana,Naudin's cyclanthera,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00257,Cyclospermum leptophyllum,marsh parsley,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00258,Cylindropuntia leptocaulis,Christmas cactus,Cactus/Succulent,Perennial,"Apr , May , Jul , Aug",Apr,Aug,Apr;May;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00259,Cymopterus macrorhizus,Cymopterus macrorhizus Buckley,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00260,Cynanchum barbigerum,bearded swallow-wort,Vine,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,Sun,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00261,Cynodon dactylon,Bermudagrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00262,Cyperus esculentus,yellow nutsedge,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00263,Cyperus odoratus,fragrant flatsedge,Grass/Grass-like,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Sun,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00264,Cyperus retroflexus,Cyperus retroflexus Buckley,Grass/Grass-like,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00265,Cyperus rotundus,nutgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00266,Cyperus strigosus,strawcolored flatsedge,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00267,Cyrtomium falcatum,Japanese netvein hollyfern,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00268,Dalea aurea,golden prairie clover,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00269,Dalea compacta,compact prairie clover,Herb,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00270,Dalea compacta var. compacta,compact prairie clover,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00271,Dalea frutescens,black prairie clover,Shrub,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Low,Sun,Dry,Butterflies,Dogface butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00272,Dalea hallii,Hall's prairie clover,Shrub,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00273,Dalea multiflora,roundhead prairie clover,Herb,Perennial,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00274,Dalea nana,Dalea nana Torr. ex A. Gray,Shrub,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00275,Dalea purpurea,Dalea purpurea Vent.,Subshrub,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00276,Dalea tenuis,Dalea tenuis (J.M. Coult.) Shinners,Subshrub,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00277,Dasylirion texanum,Dasylirion texanum Scheele,Grass/Grass-like,Perennial,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00278,Daucosma laciniata,meadow parasol,Herb,Annual,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00279,Daucus pusillus,American wild carrot,Herb,"Annual,Biennial","Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00280,Delphinium carolinianum,Carolina larkspur,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00281,Descurainia pinnata,western tansymustard,Herb,Annual,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00282,Desmanthus acuminatus,wild tantan,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00283,Desmanthus illinoensis,Illinois bundleflower,Shrub,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Medium,Sun,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00284,Desmanthus leptolobus,slenderlobe bundleflower,Herb,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00285,Desmanthus velutinus,velvet bundleflower,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00286,Desmanthus virgatus,wild tantan,"Herb,Subshrub",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00287,Desmodium nudiflorum,Desmodium nudiflorum (L.) DC.,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,Medium,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00288,Desmodium paniculatum,panicledleaf ticktrefoil,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,Low,Part Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00289,Desmodium psilophyllum,Desmodium psilophyllum Schltdl.,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00290,Desmodium sessilifolium,sessileleaf ticktrefoil,Herb,Perennial,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00291,Dichanthelium acuminatum,tapered rosette grass,Grass/Grass-like,Perennial,"Apr , May , Jun , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Aug;Sep;Oct,yes,yes,yes,no,,"Sun , Part Shade",,Butterflies,Southern & Northern Brokendashes. The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00292,Dichanthelium acuminatum var. lindheimeri,Lindheimer panicgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00293,Dichanthelium oligosanthes,Heller's rosette grass,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00294,Dichanthelium pedicellatum,Dichanthelium pedicellatum (Vasey) Gould,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00295,Dichanthium annulatum,Kleberg's bluestem,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00296,Dichondra carolinensis,Carolina ponysfoot,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00297,Dichondra recurvata,oakwoods ponysfoot,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00298,Dicliptera brachiata,branched foldwing,Herb,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Part Shade,Moist,Butterflies,Texan crescent,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00299,Digitaria ciliaris,southern crabgrass,Grass/Grass-like,"Annual,Perennial","Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00300,Digitaria cognata,Digitaria cognata (Schult.) Pilg.,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,"Sun , Part Shade , Shade",Dry,Butterflies,The Grass Family is an essential larval host for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00301,Digitaria pubiflora,Carolina crabgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00302,Diospyros texana,Texas persimmon,Tree,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Low,"Sun , Part Shade",Dry,"Birds , Butterflies","Gray hairstreak, Henry's Elfin butterfly",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00303,Draba cuneifolia,wedgeleaf draba,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00304,Dracopis amplexicaulis,Dracopis amplexicaulis (Vahl) Cass.,Herb,Annual,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,High,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00305,Dyschoriste linearis,polkadots,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,"Moist , Wet",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00306,Dyschoriste linearis var. linearis,polkadots,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00307,Dysodiopsis tagetoides,false dogfennel,Herb,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00308,Dysphania ambrosioides,Mexican tea,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00309,Echinacea angustifolia,Echinacea angustifolia DC.,Herb,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,"Sun , Part Shade",Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00310,Echinocactus texensis,horse crippler,Cactus/Succulent,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00311,Echinocereus enneacanthus,pitaya,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00312,Echinocereus enneacanthus var. brevispinus,pitaya,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00313,Echinocereus reichenbachii,lace hedgehog cactus,Cactus/Succulent,Perennial,May,May,May,May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00314,Echinocereus triglochidiatus,Echinocereus triglochidiatus Engelm.,Cactus/Succulent,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00315,Echinochloa colona,jungle rice,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00316,Echinochloa crus-galli,barnyardgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00317,Echinochloa walteri,coast cockspur grass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00318,Echinodorus berteroi,upright burhead,Herb,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00319,Eclipta prostrata,false daisy,Herb,"Annual,Perennial","Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00320,Egeria densa,Brazilian waterweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00321,Ehretia anacua,knockaway,Tree,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Low,"Sun , Part Shade",Dry,Birds,The exclusive host for larvae and adults of the Anacua Tortoise Beetle (Coptocycla texana).,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00322,Eichhornia crassipes,common water hyacinth,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00323,Eleocharis atropurpurea,purple spikerush,Grass/Grass-like,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00324,Eleocharis compressa,flatstem spikerush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00325,Eleocharis compressa var. acutisquamata,sharpscale spikerush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00326,Eleocharis montevidensis,sand spikerush,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,High,Sun,"Moist , Wet",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00327,Eleocharis occulta,Limestone Spike-Rush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00328,Eleocharis rostellata,beaked spikerush,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,High,Part Shade,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00329,Elymus canadensis,Canada wildrye,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Medium,"Sun , Part Shade",Moist,Butterflies,For Zabulon skipper butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00330,Elymus macgregorii,early wildrye,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00331,Elymus virginicus,Virginia wildrye,Grass/Grass-like,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Part Shade,Moist,Butterflies,The Grass Family is an essential larval host for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00332,Elymus virginicus var. virginicus,Virginia wildrye,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00333,Engelmannia peristenia,Engelmann's daisy,Herb,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Medium,Sun,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00334,Ephedra antisyphilitica,clapweed,Shrub,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00335,Epipactis gigantea,stream orchid,Herb,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,Medium,"Part Shade , Shade","Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00336,Equisetum hyemale,scouringrush horsetail,Herb,Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,Medium,"Sun , Part Shade , Shade","Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00337,Equisetum hyemale var. affine,scouringrush horsetail,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00338,Eragrostis barrelieri,Mediterranean lovegrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00339,Eragrostis hirsuta,bigtop lovegrass,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00340,Eragrostis intermedia,plains lovegrass,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00341,Eragrostis lugens,Eragrostis lugens Nees,Grass/Grass-like,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00342,Eragrostis secundiflora,red lovegrass,Grass/Grass-like,Perennial,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00343,Eragrostis trichodes,sand lovegrass,Grass/Grass-like,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00344,Erigeron geiseri,Geiser's fleabane,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00345,Erigeron modestus,plains fleabane,Herb,Perennial,"Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Feb,Oct,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,yes,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00346,Erigeron philadelphicus,Philadelphia fleabane,Herb,Biennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Medium,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00347,Erigeron philadelphicus var. philadelphicus,Philadelphia fleabane,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00348,Eriochloa sericea,Texas cupgrass,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00349,Erioneuron pilosum,hairy woollygrass,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,Butterflies,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00350,Erodium texanum,Texas stork's bill,Herb,"Annual,Biennial","Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00351,Eryngium leavenworthii,Leavenworth's eryngo,Herb,Annual,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,Low,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00352,Eucnide bartonioides,yellow stingbush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00353,Eucnide bartonioides var. edwardsiana B,Edwards Plateau yellow stingbush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00354,Eupatorium serotinum,lateflowering thoroughwort,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Medium,Part Shade,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00355,Euphorbia corollata,flowering spurge,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00356,Euphorbia cyathophora,fire on the mountain,Herb,Annual,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00357,Euphorbia dentata,toothed spurge,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00358,Euphorbia dentata var. dentata,toothed spurge,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00359,Euphorbia marginata,snow on the mountain,Herb,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Part Shade,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00360,Euphorbia roemeriana,Roemer's spurge,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00361,Eurytaenia texana,Texas spreadwing,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00362,Eustoma exaltatum,Eustoma exaltatum (L.) Salisb. ex G. Don ssp. russellianum (Hook.) Kartesz,Herb,"Annual,Perennial,Biennial","Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00363,Evax candida,Evax candida (Torr. & A. Gray) A. Gray,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00364,Evax prolifera,bighead pygmycudweed,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,Part Shade,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00365,Evax verna,spring pygmycudweed,Herb,Annual,"Feb , Mar , Apr , May , Jun , Jul , Aug",Feb,Aug,Feb;Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00366,Evax verna var. verna,spring pygmycudweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00367,Evolvulus nuttallianus,shaggy dwarf morning-glory,Herb,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00368,Evolvulus sericeus,Evolvulus sericeus Sw.,Herb,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00369,Eysenhardtia texana,Texas kidneywood,Shrub,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,Butterflies,Dogface butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00370,Facelis retusa,annual trampweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00371,Festuca versuta,Texas fescue,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00372,Fimbristylis puberula,hairy fimbry,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00373,Fimbristylis puberula var. puberula,hairy fimbry,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00374,Fimbristylis vahlii,Vahl's fimbry,Grass/Grass-like,Annual,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00375,Forestiera pubescens,stretchberry,Shrub,Perennial,"Jan , Feb , Mar",Jan,Mar,Jan;Feb;Mar,yes,no,no,yes,"Low , Medium","Sun , Part Shade , Shade","Dry , Moist","Birds , Butterflies",Hairstreaks,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00376,Frangula caroliniana,Frangula caroliniana (Walter) A. Gray,Tree,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,Part Shade,Moist,"Birds , Butterflies",Snout butterfly,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00377,Fraxinus albicans,Texas ash,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Low,Part Shade,Dry,Butterflies,Eastern Tiger Swallowtail,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00378,Fraxinus pennsylvanica,green ash,Tree,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,"Sun , Part Shade , Shade","Dry , Moist , Wet","Birds , Butterflies","Eastern Tiger Swallowtail, Two-tailed tiger swallowtail, Tiger swallow-tail, Orange sulphur, Cloudless giant sulphur, Mourning Cloak.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00379,Froelichia gracilis,Froelichia gracilis (Hook.) Moq.,Herb,Annual,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00380,Fuirena simplex,western umbrella-sedge,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00381,Fuirena simplex var. simplex,western umbrella-sedge,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00382,Funastrum cynanchoides,fringed twinevine,Vine,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Medium,Part Shade,Dry,Butterflies,"Milkweed, Monarch, Queen butterfly.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00383,Gaillardia pulchella,Indian blanket,Herb,Annual,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,Medium,"Sun , Part Shade",Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00384,Gaillardia pulchella var. pulchella,,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00385,Gaillardia suavis,perfumeballs,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00386,Galactia canescens,hoary milkpea,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00387,Galactia texana,Texas milkpea,Vine,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00388,Galium aparine,stickywilly,"Herb,Vine",Annual,Apr,Apr,Apr,Apr,yes,no,no,no,High,Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00389,Galium texense,Galium texense A. Gray,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00390,Galium virgatum,Galium virgatum Nutt.,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00391,Galphimia angustifolia,Galphimia angustifolia Benth.,Shrub,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Part Shade,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00392,Gamochaeta purpurea,Gamochaeta purpurea (L.) Cabrera,Herb,"Annual,Biennial","Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00393,Garrya ovata,eggleaf silktassel,Shrub,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,"Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00394,Geranium carolinianum,Carolina geranium,Herb,Annual,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00395,Geranium carolinianum var. carolinianum,Carolina geranium,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00396,Geranium texanum,Texas geranium,Herb,Annual,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00397,Geum canadense,Geum canadense Jacq.,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,"Part Shade , Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00398,Giliastrum incisum,splitleaf gilia,Herb,"Annual,Perennial,Biennial","Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00399,Giliastrum rigidulum,bluebowls,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00400,Glandularia bipinnatifida,Dakota mock vervain,Herb,"Annual,Perennial","Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Mar,Dec,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,Low,"Sun , Part Shade",Dry,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00401,Glandularia bipinnatifida var. bipinnatifida,Dakota mock vervain,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00402,Glandularia pumila,Glandularia pumila (Rydb.) Umber,Herb,Annual,"Feb , Mar , Apr , May , Jun , Jul",Feb,Jul,Feb;Mar;Apr;May;Jun;Jul,yes,yes,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00403,Grindelia lanceolata,narrowleaf gumweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00404,Grindelia lanceolata var. texana,Texan gumweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00405,Grindelia nuda,Grindelia nuda Alph. Wood var. nuda,Herb,"Annual,Perennial,Biennial","Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00406,Grindelia papposa,Grindelia papposa G.L. Nesom & Suh,Herb,Annual,"Aug , Sep",Aug,Sep,Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00407,Grindelia squarrosa,Grindelia squarrosa (Pursh) Dunal,Herb,"Annual,Perennial,Biennial","Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00408,Gutierrezia texana,Texas snakeweed,"Herb,Subshrub","Annual,Perennial","Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00409,Gutierrezia texana var. texana,Texas snakeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00410,Gymnosperma glutinosum,Gymnosperma glutinosum (Spreng.) Less.,Herb,Perennial,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00411,Hedeoma acinoides,slender false pennyroyal,Herb,Annual,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00412,Hedeoma drummondii,Drummond's false pennyroyal,Herb,Annual,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00413,Hedeoma reverchonii,Reverchon's false pennyroyal,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00414,Hedeoma reverchonii var. reverchonii,Reverchon's false pennyroyal,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00415,Hedeoma reverchonii var. serpyllifolia,Reverchon's false pennyroyal,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00416,Hedypnois cretica,Cretanweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00417,Helenium amarum,sneezeweed,Herb,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00418,Helenium amarum var. amarum,sneezeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00419,Helenium amarum var. badium,sneezeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00420,Helenium autumnale,common sneezeweed,Herb,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Sun,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00421,Helenium autumnale var. autumnale,common sneezeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00422,Helenium elegans,pretty sneezeweed,Herb,Annual,"Feb , Mar , Apr , May , Jun , Jul , Aug , Sep",Feb,Sep,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00423,Helenium elegans var. elegans,pretty sneezeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00424,Helenium microcephalum,smallhead sneezeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00425,Helenium microcephalum var. microcephalum,smallhead sneezeweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00426,Helenium quadridentatum,Helenium quadridentatum Labill.,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00427,Helianthus annuus,common sunflower,Herb,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Sun,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00428,Helianthus maximiliani,Maximilian sunflower,Herb,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Low,Sun,"Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00429,Heliotropium europaeum,European heliotrope,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00430,Heliotropium procumbens,Heliotropium procumbens Mill.,"Herb,Subshrub","Annual,Perennial",,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00431,Heliotropium tenellum,pasture heliotrope,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00432,Heteranthera dubia,Heteranthera dubia (Jacq.) MacMill.,Herb,Annual,,,,,no,no,no,no,,,,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00433,Heterotheca canescens,hoary false goldenaster,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00434,Heterotheca stenophylla,stiffleaf false goldenaster,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00435,Heterotheca subaxillaris,camphorweed,Herb,Annual,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00436,Heterotheca villosa,Heterotheca villosa (Pursh) Shinners,"Herb,Subshrub",Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00437,Hexalectris nitida,Glass Mountain crested coralroot,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00438,Hexalectris warnockii,Texas crested coralroot,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00439,Hilaria belangeri,curly-mesquite,Grass/Grass-like,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00440,Hilaria belangeri var. belangeri,curly-mesquite,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00441,Hordeum pusillum,little barley,Grass/Grass-like,Annual,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,Sun,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00442,Hydrilla verticillata,waterthyme,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00443,Hydrocotyle umbellata,Hydrocotyle umbellata L.,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,"Sun , Part Shade , Shade","Moist , Wet",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00444,Hydrocotyle verticillata,Hydrocotyle verticillata Thunb.,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00445,Hygrophila lacustris,Hygrophila lacustris (Schltdl. & Cham.) Nees,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00446,Hygrophila polysperma,Indian swampweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00447,Hymenopappus artemisiifolius,oldplainsman,Herb,Biennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00448,Hymenopappus artemisiifolius var. artemisiifolius,oldplainsman,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00449,Hymenopappus scabiosaeus,Carolina woollywhite,Herb,Biennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00450,Hymenopappus scabiosaeus var. corymbosus,Carolina woollywhite,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00451,Hymenopappus tenuifolius,Chalk Hill hymenopappus,Herb,Biennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00452,Hypericum hypericoides,Hypericum hypericoides (L.) Crantz,Subshrub,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00453,Ibervillea lindheimeri,Lindheimer's globeberry,Vine,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00454,Ilex decidua,possumhaw,Shrub,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00455,Ilex vomitoria,Ilex vomitoria Aiton,"Shrub,Tree",Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,"Sun , Part Shade , Shade","Dry , Moist","Birds , Butterflies",Henry's Elfin butterfly,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00456,Indigofera miniata,coastal indigo,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,"Sun , Part Shade","Dry , Moist",Butterflies,"Grey Hairstreak, Common Dogface, Reakirt's Blue",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00457,Ipomoea carnea,gloria de la manana,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00458,Ipomoea cordatotriloba,tievine,Vine,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Mar,Dec,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,Part Shade,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00459,Ipomoea cordatotriloba var. cordatotriloba,tievine,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00460,Ipomoea hederacea,ivyleaf morning-glory,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00461,Ipomoea lindheimeri,Ipomoea lindheimeri A. Gray,Vine,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00462,Ipomoea purpurea,tall morning-glory,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00463,Ipomopsis rubra,Ipomopsis rubra (L.) Wherry,Herb,Biennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Medium,"Sun , Part Shade",Dry,Hummingbirds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00464,Iresine heterophylla,Standley's bloodleaf,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00465,Iva angustifolia,narrowleaf marsh elder,Herb,Annual,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00466,Iva annua,annual marsh elder,Herb,Annual,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00467,Juglans major,Arizona walnut,Tree,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00468,Juglans microcarpa,little walnut,Tree,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Medium,Part Shade,Dry,"Birds , Butterflies",Banded hairstreak butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00469,Juglans microcarpa var. stewartii,Stewart's little walnut,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00470,Juncus dichotomus,Juncus dichotomus Elliott,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00471,Juncus filipendulus,ringseed rush,Grass/Grass-like,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00472,Juncus texanus,Texas rush,Grass/Grass-like,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00473,Juniperus ashei,Ashe's juniper,Tree,Perennial,"Jan , Feb , Dec",Jan,Dec,Jan;Feb;Dec,no,no,no,yes,Low,Part Shade,Dry,Butterflies,"Juniper hairstreak, Olive butterfly.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00474,Juniperus virginiana,eastern redcedar,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,"Sun , Part Shade , Shade",Dry,"Birds , Butterflies",Olive butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00475,Juniperus virginiana var. virginiana,eastern redcedar,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00476,Justicia americana,American water-willow,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,"Sun , Part Shade","Moist , Wet",Butterflies,Texan Crescentspot butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00477,Justicia pilosella,Gregg's tube tongue,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,"Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00478,Kallstroemia parviflora,Kallstroemia parviflora J.B.S. Norton,Herb,Annual,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Sun,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00479,Krameria lanceolata,trailing krameria,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00480,Krigia caespitosa,weedy dwarfdandelion,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00481,Krigia occidentalis,Krigia occidentalis Nutt.,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00482,Lactuca ludoviciana,biannual lettuce,Herb,"Perennial,Biennial","Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,"Low , Medium","Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00483,Lamium amplexicaule,henbit deadnettle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00484,Lantana urticoides,West Indian shrubverbena,Shrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00485,Lappula occidentalis,Lappula occidentalis (S. Watson) Greene var. cupulata (A. Gray) Higgins,Herb,"Annual,Biennial","Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00486,Lathyrus pusillus,tiny pea,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00487,Leersia oryzoides,Leersia oryzoides (L.) Sw.,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,High,Part Shade,Wet,"Birds , Butterflies",Least Skipper (Ancyloxypha numitor),,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00488,Lemna minor,Lemna minor L.,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,High,Sun,Wet,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00489,Lepidium austrinum,southern pepperwort,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00490,Lepidium virginicum,Virginia pepperweed,Herb,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00491,Leptochloa dubia,green sprangletop,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00492,Leptochloa panicea,mucronate sprangletop,Grass/Grass-like,"Annual,Perennial","Sep , Oct , Nov , Dec",Sep,Dec,Sep;Oct;Nov;Dec,no,no,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00493,Lespedeza texana,Texas lespedeza,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Sun,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00494,Lesquerella densiflora,Lesquerella densiflora (A. Gray) S. Watson,Herb,Annual,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00495,Lesquerella engelmannii,Engelmann's bladderpod,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00496,Lesquerella gracilis,spreading bladderpod,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Sun,,Butterflies,Falcateorangetip butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00497,Lesquerella grandiflora,Lesquerella grandiflora (Hook.) S. Watson,Herb,Annual,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00498,Lesquerella recurvata,gaslight bladderpod,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00499,Lesquerella sessilis,sessile bladderpod,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00500,Leucophyllum frutescens,Texas barometer bush,Shrub,Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,Low,"Sun , Part Shade",Dry,Butterflies,"Theona Checkerspot, Calleta silkmoth",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00501,Leucospora multifida,narrowleaf paleseed,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00502,Liatris aestivalis,blazing star,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00503,Liatris punctata,dotted blazing star,Herb,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,Medium,Sun,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00504,Liatris punctata var. punctata,dotted blazing star,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00505,Ligustrum japonicum,Japanese privet,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00506,Ligustrum lucidum,glossy privet,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00507,Limnodea arkansana,Limnodea arkansana (Nutt.) L.H. Dewey,Grass/Grass-like,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,"Sun , Part Shade , Shade","Moist , Wet",Butterflies,The Grass Family is an essential larval host for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00508,Limnophila sessiliflora,Asian marshweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00509,Lindera benzoin,northern spicebush,Shrub,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade , Shade","Dry , Moist , Wet","Birds , Butterflies","Eastern Tiger Swallowtail, Spicebush Swallowtail",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00510,Lindheimera texana,Texas yellowstar,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00511,Linum berlandieri,Berlandier's yellow flax,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00512,Linum berlandieri var. berlandieri,Berlandier's yellow flax,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00513,Linum grandiflorum,flowering flax,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00514,Linum hudsonioides,Linum hudsonioides Planch.,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00515,Linum imbricatum,tufted flax,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00516,Linum rigidum,Linum rigidum Pursh,Herb,Annual,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00517,Linum rupestre,Linum rupestre (A. Gray) Engelm. ex A. Gray,Herb,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00518,Linum usitatissimum,common flax,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00519,Lithospermum incisum,narrowleaf stoneseed,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00520,Lithospermum mirabile,San Antonio stoneseed,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00521,Lobelia cardinalis,Lobelia cardinalis L.,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,"Medium , High","Sun , Part Shade , Shade","Moist , Wet","Birds , Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00522,Lolium perenne,perennial ryegrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00523,Lonicera albiflora,western white honeysuckle,Vine,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,"Sun , Part Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00524,Lonicera japonica,Japanese honeysuckle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00525,Lonicera sempervirens,trumpet honeysuckle,Vine,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Medium,"Sun , Part Shade",Moist,"Birds , Butterflies , Hummingbirds","Spring Azure, Snowberry Clearwing Moth",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00526,Ludwigia decurrens,wingleaf primrose-willow,Herb,Annual,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00527,Ludwigia octovalvis,Mexican primrose-willow,Shrub,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,"Sun , Part Shade",Moist,Butterflies,Water-primrose hornworm moth,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00528,Ludwigia palustris,marsh seedbox,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,High,Sun,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00529,Ludwigia peploides,floating primrose-willow,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00530,Ludwigia repens,Ludwigia repens J.R. Forst.,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00531,Lupinus texensis,Texas lupine,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,Butterflies,"Hairstreak butterfly, Elfin butterfly",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00532,Luzula bulbosa,bulbous woodrush,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00533,Lygodesmia texana,Texas skeletonplant,Herb,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00534,Lythrum alatum,winged lythrum,Subshrub,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Medium,Sun,"Moist , Wet",Hummingbirds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00535,Lythrum alatum var. lanceolatum,winged lythrum,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00536,Lythrum californicum,California loosestrife,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,Sun,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00537,Maclura pomifera,Osage-orange,Tree,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,"Sun , Part Shade","Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00538,Magnolia grandiflora,southern magnolia,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00539,Mahonia swaseyi,Texas barberry,Shrub,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,,Sun,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00540,Mahonia trifoliolata,algerita,Shrub,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Low,"Sun , Part Shade","Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00541,Malva neglecta,common mallow,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00542,Malva parviflora,cheeseweed mallow,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00543,Malvastrum aurantiacum,Wright's false mallow,Shrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00544,Malvastrum coromandelianum,threelobe false mallow,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00545,Malvaviscus arboreus,wax mallow,Shrub,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,"Part Shade , Shade","Dry , Moist","Birds , Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00546,Malvaviscus arboreus var. drummondii,wax mallow,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00547,Marrubium vulgare,horehound,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00548,Marshallia caespitosa,puffballs,Herb,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00549,Marshallia caespitosa var. signata Beadle,puffballs,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00550,Marsilea vestita,hairy waterclover,"Herb,Fern",Perennial,,,,,no,no,no,no,"Medium , High",Part Shade,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00551,Matelea biflora,Matelea biflora (Raf.) Woodson,Vine,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00552,Matelea edwardsensis,Matelea edwardsensis Correll,Vine,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00553,Matelea gonocarpos,Matelea gonocarpos (Walter) Shinners,Vine,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00554,Matelea reticulata,netted milkvine,Vine,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00555,Maurandella antirrhiniflora,roving sailor,Vine,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Part Shade,Dry,Butterflies,Common buckeye,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00556,Mecardonia procumbens,baby jump-up,Herb,Annual,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00557,Medicago minima,little bur-clover,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00558,Medicago polymorpha,burclover,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00559,Melampodium leucanthum,plains blackfoot,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00560,Melia azedarach,Chinaberrytree,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00561,Melilotus indicus,annual yellow sweetclover,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00562,Melilotus officinalis,sweetclover,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00563,Melochia pyramidata,Melochia pyramidata L.,"Herb,Subshrub,Shrub",Annual,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00564,Melothria pendula,Guadeloupe cucumber,Vine,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00565,Melothria pendula var. pendula,Guadeloupe cucumber,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00566,Menodora heterophylla,low menodora,Herb,Perennial,"Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Feb,Oct,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,yes,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00567,Menodora longiflora,showy menodora,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00568,Mentha ×piperita,peppermint,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00569,Mentzelia oligosperma,Mentzelia oligosperma Nutt. ex Sims,Shrub,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00570,Merremia dissecta,Merremia dissecta (Jacq.) Hallier f.,Vine,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,"Low , Medium","Sun , Part Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00571,Mikania scandens,climbing hempvine,Vine,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,Medium,Shade,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00572,Mimosa aculeaticarpa,catclaw mimosa,Tree,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00573,Mimosa aculeaticarpa var. biuncifera,catclaw mimosa,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00574,Mimosa borealis,fragrant mimosa,Shrub,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00575,Mimosa latidens,Mimosa latidens (Small) B.L. Turner,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00576,Mimosa malacophylla,softleaf mimosa,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00577,Mimosa roemeriana,Roemer's mimosa,Herb,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00578,Mimosa texana,Texas mimosa,Shrub,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00579,Mimulus glabratus,Mimulus glabratus Kunth,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00580,Mirabilis albida,white four o'clock,Herb,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00581,Mirabilis jalapa,marvel of Peru,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00582,Mirabilis linearis,Mirabilis linearis (Pursh) Heimerl,"Herb,Subshrub",Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00583,Mirabilis nyctaginea,heartleaf four o'clock,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00584,Mitreola petiolata,lax hornpod,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00585,Monarda citriodora,lemon beebalm,Herb,Annual,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,"Sun , Part Shade",Dry,"Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00586,Monarda citriodora var. citriodora,lemon beebalm,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00587,Monarda punctata,Monarda punctata L.,Herb,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00588,Monolepis nuttalliana,Nuttall's povertyweed,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00589,Morus alba,white mulberry,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00590,Morus microphylla,Morus microphylla Buckley,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00591,Morus rubra,red mulberry,Tree,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,Medium,"Sun , Part Shade , Shade","Dry , Moist","Birds , Butterflies",Mourning Cloak.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00592,Muhlenbergia,Muhlenbergia ×involuta Swallen (pro sp.),Grass/Grass-like,Perennial,"Sep , Oct , Nov , Dec",Sep,Dec,Sep;Oct;Nov;Dec,no,no,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00593,Muhlenbergia lindheimeri,Lindheimer's muhly,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Medium,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00594,Muhlenbergia reverchonii,seep muhly,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Medium,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00595,Muhlenbergia schreberi,nimblewill,Grass/Grass-like,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,"Part Shade , Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00596,Muhlenbergia utilis,aparejograss,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00597,Muhlenbergia ×involuta,muhly,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00598,Muscari neglectum,starch grape hyacinth,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00599,Myosotis macrosperma,largeseed forget-me-not,Herb,Annual,,,,,no,no,no,no,,"Sun , Part Shade , Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00600,Myriophyllum heterophyllum,twoleaf watermilfoil,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00601,Myriopteris alabamensis,Myriopteris alabamensis (Buckley) Grusz & Windham,"Herb,Fern",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00602,Najas guadalupensis,southern waternymph,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00603,Nama jamaicense,Jamaicanweed,Herb,Annual,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00604,Nassella leucotricha,Texas wintergrass,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,Butterflies,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00605,Nasturtium officinale,watercress,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00606,Nekemias arborea,peppervine,"Shrub,Vine",Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00607,Nemastylis geminiflora,prairie pleatleaf,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00608,Nemophila phacelioides,largeflower baby blue eyes,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00609,Neptunia lutea,Neptunia lutea (Leavenworth) Benth.,Shrub,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00610,Neptunia pubescens,Neptunia pubescens Benth.,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00611,Nerium oleander,oleander,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00612,Nicotiana repanda,fiddleleaf tobacco,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00613,Nolina lindheimeriana,Nolina lindheimeriana (Scheele) S. Watson,Shrub,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00614,Nolina texana,Nolina texana S. Watson,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Dry,Butterflies,"Atea hairstreak butterfly, Sandia hairstreak butterfly.",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00615,Nothoscordum bivalve,crowpoison,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00616,Nuphar lutea,yellow pond-lily,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,High,Sun,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00617,Nuttallanthus texanus,Nuttallanthus texanus (Scheele) D.A. Sutton,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,Sun,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00618,Nymphaea odorata,Nymphaea odorata Aiton,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,High,"Sun , Part Shade , Shade",Wet,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00619,Oenothera curtiflora,velvetweed,Herb,Annual,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00620,Oenothera macrocarpa,bigfruit evening primrose,Herb,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,Hummingbirds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00621,Oenothera patriciae,Oenothera patriciae W.L. Wagner & Hoch,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00622,Oenothera rosea,rose evening primrose,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00623,Oenothera sinuosa,wavyleaf beeblossom,Herb,Perennial,"Jun , Jul , Sep",Jun,Sep,Jun;Jul;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00624,Oenothera speciosa,pinkladies,Herb,Perennial,"Feb , Mar , Apr , May , Jun , Jul",Feb,Jul,Feb;Mar;Apr;May;Jun;Jul,yes,yes,no,yes,"Low , Medium",Sun,"Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00625,Oenothera suffrutescens,scarlet beeblossom,Shrub,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00626,Oenothera suffulta,kisses,Shrub,Annual,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00627,Oenothera triloba,stemless evening primrose,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00628,Oenothera xerogaura,Drummond's beeblossom,Herb,Perennial,"Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Feb,Nov,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00629,Oenothera calcicola,Oenothera calcicola (P.H. Raven & D.P. Greg.) W.L. Wagner & Hoch,Subshrub,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00630,Oenothera filiformis,Oenothera filiformis (Small) W.L. Wagner & Hoch,Herb,"Annual,Perennial,Biennial","Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00631,Oenothera lindheimeri,Oenothera lindheimeri (Engelm. & A. Gray) W.L. Wagner & Hoch,Herb,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,Medium,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00632,Onosmodium bejariense,soft-hair marbleseed,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00633,Onosmodium bejariense var. bejariense,soft-hair marbleseed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00634,Onosmodium helleri,Heller's marbleseed,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00635,Opuntia engelmannii,cactus apple,Cactus/Succulent,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00636,Opuntia engelmannii var. lindheimeri,Texas pricklypear,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00637,Opuntia macrorhiza,twistspine pricklypear,Cactus/Succulent,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00638,Opuntia macrorhiza var. macrorhiza,twistspine pricklypear,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00639,Opuntia phaeacantha,Opuntia phaeacantha Engelm.,Cactus/Succulent,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,Low,Part Shade,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00640,Oxalis albicans,radishroot woodsorrel,"Herb,Subshrub",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00641,Oxalis dillenii,slender yellow woodsorrel,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00642,Oxalis drummondii,Drummond's woodsorrel,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00643,Oxalis stricta,Oxalis stricta L.,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00644,Oxalis violacea,Oxalis violacea L.,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,Part Shade,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00645,Packera glabella,Packera glabella (Poir.) C. Jeffrey,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,High,"Sun , Part Shade",Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00646,Packera obovata,Packera obovata (Muhl. ex Willd.) W.A. Weber & Á. Löve,Herb,Perennial,"Feb , Mar , Apr , May , Jun",Feb,Jun,Feb;Mar;Apr;May;Jun,yes,yes,no,yes,"Low , Medium","Part Shade , Shade",Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00647,Packera tampicana,Great Plains ragwort,Herb,Annual,"Feb , Mar , Apr , May , Jun",Feb,Jun,Feb;Mar;Apr;May;Jun,yes,yes,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00648,Palafoxia callosa,small palafox,Herb,Annual,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00649,Panicum capillare,witchgrass,Grass/Grass-like,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00650,Panicum hallii,Hall's panicgrass,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00651,Panicum hallii var. filipes,Hall's panicgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00652,Panicum obtusum,vine mesquite,Grass/Grass-like,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,High,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00653,Panicum virgatum,switchgrass,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Medium,"Sun , Part Shade","Dry , Moist","Birds , Butterflies",Delaware Skipper. The Grass Family is an essential larval host for most banded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00654,Panicum virgatum var. virgatum,switchgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00655,Parietaria pensylvanica,Pennsylvania pellitory,Herb,Annual,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00656,Parkinsonia aculeata,Jerusalem thorn,Tree,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,"Low , Medium",Sun,"Dry , Moist","Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00657,Paronychia virginica,yellow nailwort,"Herb,Subshrub",Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00658,Parthenium confertum,Gray's feverfew,"Herb,Subshrub","Annual,Perennial,Biennial","Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00659,Parthenium hysterophorus,Santa Maria feverfew,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00660,Parthenocissus heptaphylla,sevenleaf creeper,Vine,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,"Sun , Part Shade , Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00661,Parthenocissus quinquefolia,Parthenocissus quinquefolia (L.) Planch.,Vine,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,Low,"Sun , Part Shade , Shade",Moist,Birds,"Abbott's Sphinx Moth (Sphecodina abbottii), Pandora Sphinx Moth (Eumorpha pandorus), Virginia Creeper Sphinx Moth (Darapsa myron), White-lined Sphinx Moth (Hyles lineata)",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00662,Paspalum dilatatum,dallisgrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00663,Paspalum distichum,knotgrass,Grass/Grass-like,Perennial,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,High,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00664,Paspalum floridanum,Florida paspalum,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Medium,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00665,Paspalum notatum,bahiagrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00666,Paspalum pubiflorum,hairyseed paspalum,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00667,Paspalum setaceum,thin paspalum,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00668,Paspalum urvillei,Vasey's grass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00669,Passiflora affinis,bracted passionflower,Vine,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,Low,"Sun , Part Shade","Dry , Moist",Butterflies,Gulf Fritillary,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00670,Passiflora lutea,yellow passionflower,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Moist,Butterflies,"Julia, Mexican & Gulf fritillaries butterflies, Zebra & Crimson-patch longwing butterflies.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00671,Passiflora tenuiloba,birdwing passionflower,Vine,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,Butterflies,Gulf Fritillary,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00672,Pavonia lasiopetala,Pavonia lasiopetala Scheele,Shrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,"Sun , Part Shade",Dry,Hummingbirds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00673,Pectis angustifolia,lemonscent,Herb,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00674,Pectis angustifolia var. fastigiata,lemonscent,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00675,Pediomelum cuspidatum,largebract Indian breadroot,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00676,Pediomelum cyphocalyx,turniproot,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00677,Pediomelum latestipulatum,Texas Plains Indian breadroot,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00678,Pediomelum latestipulatum var. appressum,Texas Plains Indian breadroot,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00679,Pediomelum linearifolium,narrowleaf Indian breadroot,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00680,Pediomelum rhombifolium,Gulf Indian breadroot,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00681,Pellaea atropurpurea,purple cliffbrake,"Herb,Fern",Perennial,,,,,no,no,no,no,,,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00682,Pellaea ovata,Pellaea ovata (Desv.) Weath.,"Herb,Fern",Perennial,,,,,no,no,no,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00683,Pellaea wrightiana,Wright's cliffbrake,Fern,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00684,Penstemon cobaea,cobaea beardtongue,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Dry,"Butterflies , Hummingbirds",Dotted Checkerspot butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00685,Penstemon triflorus,Heller's beardtongue,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Sun,Dry,Hummingbirds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00686,Perityle lindheimeri,Lindheimer's rockdaisy,"Herb,Subshrub",Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00687,Perityle lindheimeri var. lindheimeri,Lindheimer's rockdaisy,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00688,Phacelia congesta,caterpillars,Herb,"Annual,Biennial","Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00689,Phacelia patuliflora,Phacelia patuliflora (Engelm. & A. Gray) A. Gray,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00690,Phacelia strictiflora,Phacelia strictiflora (Engelm. & A. Gray) A. Gray,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00691,Phalaris caroliniana,Carolina canarygrass,Grass/Grass-like,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00692,Phemeranthus aurantiacus,orange fameflower,Subshrub,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00693,Philadelphus ernestii,canyon mock orange,Shrub,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,"Low , Medium","Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00694,Phlox drummondii,Phlox drummondii Hook.,Herb,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00695,Phlox pilosa,downy phlox,"Herb,Subshrub",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00696,Phlox roemeriana,goldeneye phlox,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00697,Phoradendron tomentosum,Christmas mistletoe,Subshrub,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00698,Phyla fruticosa,diamondleaf fogfruit,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00699,Phyla nodiflora,turkey tangle fogfruit,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,"Low , Medium","Sun , Part Shade","Dry , Moist",Butterflies,"Phaon Crescentspot, Buckeye, and White Peacock butterflies",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00700,Phyllanthus polygonoides,smartweed leaf-flower,Subshrub,Perennial,,,,,no,no,no,no,,,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00701,Phyllanthus urinaria,chamber bitter,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00702,Phyllostachys aurea,golden bamboo,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00703,Physalis cinerascens,smallflower groundcherry,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00704,Physalis cinerascens var. cinerascens,smallflower groundcherry,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00705,Physostegia angustifolia,narrowleaf false dragonhead,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00706,Phytolacca americana,Phytolacca americana L.,Herb,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Part Shade,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00707,Pilostyles thurberi,Pilostyles thurberi A. Gray,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00708,Pinaropappus roseus,white rocklettuce,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00709,Pistia stratiotes,water lettuce,Herb,Perennial,Apr,Apr,Apr,Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00710,Plantago helleri,Plantago helleri Small,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00711,Plantago rhodosperma,redseed plantain,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00712,Platanus occidentalis,American sycamore,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,High,"Sun , Part Shade , Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00713,Pleuraphis mutica,tobosagrass,Grass/Grass-like,Perennial,,,,,no,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00714,Pluchea camphorata,camphor pluchea,Herb,Annual,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00715,Pluchea odorata,sweetscent,Subshrub,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,"Sun , Part Shade , Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00716,Pluchea odorata var. odorata,sweetscent,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00717,Polanisia dodecandra,redwhisker clammyweed,Herb,Annual,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,Sun,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00718,Polygala alba,white milkwort,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00719,Polygala lindheimeri,shrubby milkwort,"Herb,Subshrub",Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00720,Polygala lindheimeri var. lindheimeri,shrubby milkwort,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00721,Polygonum glabrum,Polygonum glabrum Willd.,Herb,Annual,"Jan , Feb , Mar , Apr , May , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Sep;Oct;Nov;Dec,yes,no,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00722,Polygonum hydropiperoides,swamp smartweed,Herb,Perennial,,,,,no,no,no,no,Medium,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00723,Polygonum lapathifolium,curlytop knotweed,Herb,Annual,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00724,Polygonum pensylvanicum,Polygonum pensylvanicum L.,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00725,Polygonum punctatum,dotted smartweed,Herb,Annual,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00726,Polygonum setaceum,Polygonum setaceum Baldw.,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00727,Polytaenia nuttallii,Polytaenia nuttallii DC.,Herb,Biennial,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,,"Sun , Part Shade","Dry , Moist",Butterflies,Black swallowtail,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00728,Polytaenia texana,Texas prairie parsley,Herb,Biennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,Butterflies,Black Swallowtail,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00729,Pontederia cordata,Pontederia cordata L.,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,High,"Sun , Part Shade","Moist , Wet",Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00730,Populus deltoides,eastern cottonwood,Tree,Perennial,,,,,no,no,no,no,,"Sun , Part Shade , Shade",Moist,Butterflies,"Eastern Tiger Swallowtail, Mourning Cloak",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00731,Portulaca pilosa,Portulaca pilosa L.,Herb,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,"Low , Medium","Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00732,Portulaca umbraticola,Portulaca umbraticola Kunth,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00733,Potamogeton crispus,curly pondweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00734,Potamogeton illinoensis,Illinois pondweed,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00735,Potamogeton nodosus,longleaf pondweed,Herb,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,High,"Sun , Part Shade",Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00736,Potamogeton pusillus,small pondweed,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00737,Proboscidea louisianica,ram's horn,Herb,Annual,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00738,Prosopis glandulosa,honey mesquite,Tree,Perennial,"Feb , Mar , Apr , May , Jun , Jul , Aug , Sep",Feb,Sep,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,yes,Low,Sun,Dry,Butterflies,"Reicker's blue butterfly, Long-tailed skipper",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00739,Prunus mexicana,Prunus mexicana S. Watson,Tree,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Low,"Sun , Part Shade","Dry , Moist","Birds , Butterflies","Tiger Swallowtail, Cecropia moths",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00740,Prunus rivularis,creek plum,Shrub,Perennial,Mar,Mar,Mar,Mar,yes,no,no,no,Medium,Part Shade,"Dry , Moist","Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00741,Prunus serotina,Prunus serotina Ehrh. var. eximia (Small) Little,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,"Low , Medium","Sun , Part Shade",Moist,"Birds , Butterflies","Eastern Tiger Swallowtail, viceroys, Columbia Silkmoth, Promethea moths, Small-eyed Sphinx Moth, Wild Cherry Sphinx Moth, Banded Tussock Moth, Spotted Apatelodes",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00742,Pseudognaphalium obtusifolium,rabbit-tobacco,Herb,Annual,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00743,Psoralidium tenuiflorum,slimflower scurfpea,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00744,Ptelea trifoliata,common hoptree,Tree,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,"Low , Medium , High","Sun , Part Shade , Shade","Dry , Moist , Wet","Birds , Butterflies","Eastern Tiger Swallowtail, Giant Swallowtail",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00745,Ptelea trifoliata var. angustifolia,common hoptree,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00746,Ptelea trifoliata var. mollis Torr,common hoptree,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00747,Pueraria montana,kudzu,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00748,Pueraria montana var. lobata,kudzu,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00749,Pyrrhopappus carolinianus,Carolina desert-chicory,Herb,Annual,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00750,Pyrrhopappus grandiflorus,tuberous desert-chicory,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00751,Pyrrhopappus pauciflorus,smallflower desert-chicory,Herb,Annual,"Feb , Mar , Apr , May , Jun",Feb,Jun,Feb;Mar;Apr;May;Jun,yes,yes,no,yes,Low,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00752,Quercus buckleyi,Texas red oak,Tree,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00753,Quercus fusiformis,Texas live oak,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,"Sun , Part Shade",Dry,"Birds , Butterflies","Hairstreak, Horace's Duskywing",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00754,Quercus laceyi,Lacey oak,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,,"Sun , Part Shade",Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00755,Quercus macrocarpa,Quercus macrocarpa Michx.,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade , Shade","Dry , Moist , Wet",Butterflies,"Edwards' Hairstreak, Horace's Duskywing butterfly",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00756,Quercus marilandica,Quercus marilandica Münchh.,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,Dry,"Birds , Butterflies","Horace's Duskywing, White M hairstreak.",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00757,Quercus muehlenbergii,chinquapin oak,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Dry,"Birds , Butterflies , Hummingbirds",Gray Hairstreak,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00758,Quercus shumardii,Shumard's oak,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade","Dry , Moist",Butterflies,Horace's Duskywing butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00759,Quercus sinuata,Quercus sinuata Walter var. breviloba (Torr.) C.H. Mull.,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,Dry,Butterflies,"Horace's Duskywing, Hairstreak.",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00760,Quercus stellata,Quercus stellata Wangenh.,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade","Dry , Moist","Birds , Butterflies","Northern hairstreak, Horace's Duskywing",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00761,Quercus virginiana,live oak,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,"Sun , Part Shade",Moist,"Birds , Butterflies","Horace's Duskywing, White M hairstreak, Northern hairstreak.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00762,Ranunculus fascicularis,Ranunculus fascicularis Muhl. ex Bigelow,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,,"Sun , Part Shade , Shade",,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00763,Ranunculus macranthus,large buttercup,Herb,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Medium,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00764,Ranunculus muricatus,spinyfruit buttercup,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00765,Ranunculus sceleratus,Ranunculus sceleratus L.,Herb,Annual,,,,,no,no,no,no,High,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00766,Rapistrum rugosum,annual bastardcabbage,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00767,Ratibida columnifera,upright prairie coneflower,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Sun,"Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00768,Rhus lanceolata,prairie sumac,Tree,Perennial,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,"Low , Medium",Sun,Dry,"Birds , Butterflies","Red-banded Hairstreak, Banded Hairstreak",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00769,Rhus trilobata,skunkbush sumac,Shrub,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00770,Rhus trilobata var. trilobata,skunkbush sumac,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00771,Rhus virens,evergreen sumac,Shrub,Perennial,"Jul , Aug",Jul,Aug,Jul;Aug,no,yes,no,no,Low,"Sun , Part Shade",Dry,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00772,Rhus virens var. virens,evergreen sumac,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00773,Rhynchosia americana,American snoutbean,"Herb,Vine",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00774,Rhynchosia minima,least snoutbean,Vine,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00775,Rhynchosia senna,Rhynchosia senna Gillies ex Hook. var. texana (Torr. & A. Gray) M.C. Johnst.,Vine,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00776,Rhynchospora colorata,starrush whitetop,Grass/Grass-like,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,Medium,"Sun , Part Shade",Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00777,Rhynchospora nivea,showy whitetop,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00778,Ricinus communis,castorbean,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00779,Rivina humilis,rougeplant,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Part Shade,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00780,Robinia pseudoacacia,black locust,Tree,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,Sun,"Dry , Moist","Birds , Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00781,Rotala ramosior,Rotala ramosior (L.) Koehne,Herb,Annual,,,,,no,no,no,no,,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00782,Rubus aboriginum,garden dewberry,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00783,Rubus trivialis,southern dewberry,Herb,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Medium,"Sun , Part Shade","Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00784,Rudbeckia hirta,blackeyed Susan,Herb,"Annual,Perennial,Biennial","Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Sun,Dry,Butterflies,Silvery Checkerspot,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00785,Ruellia drummondiana,Drummond's wild petunia,Herb,Perennial,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Low,"Part Shade , Shade",Dry,Butterflies,Common buckeye,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00786,Ruellia humilis,fringeleaf wild petunia,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Part Shade,Moist,Butterflies,Buckeye,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00787,Ruellia nudiflora,violet wild petunia,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00788,Ruellia nudiflora var. nudiflora,violet wild petunia,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00789,Ruellia occidentalis,Ruellia occidentalis (A. Gray) Tharp & F.A. Barkley,Herb,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,"Part Shade , Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00790,Rumex chrysocarpus,Rumex chrysocarpus Moris,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00791,Sabal minor,dwarf palmetto,Shrub,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,Medium,"Sun , Part Shade , Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00792,Sagittaria graminea,grassy arrowhead,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00793,Sagittaria graminea var. graminea,grassy arrowhead,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00794,Sagittaria lancifolia,Sagittaria lancifolia L.,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,High,Sun,Wet,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00795,Sagittaria platyphylla,delta arrowhead,Herb,Perennial,Jun,Jun,Jun,Jun,no,yes,no,no,High,Part Shade,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00796,Salix nigra,black willow,Tree,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,High,"Sun , Part Shade , Shade","Moist , Wet","Birds , Butterflies","Mourning Cloak, Viceroy, Red-spotted Purple, Viceroy and Tiger Swallowtail.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00797,Salvia azurea,azure blue sage,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00798,Salvia azurea var. grandiflora Benth,pitcher sage,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00799,Salvia ballotiflora,shrubby blue sage,Shrub,Perennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,Low,"Sun , Part Shade",Dry,"Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00800,Salvia coccinea,Salvia coccinea P.J. Buchoz ex Etlinger,Herb,"Annual,Perennial","Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Feb,Oct,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,yes,Medium,"Sun , Part Shade , Shade","Dry , Moist","Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00801,Salvia engelmannii,Engelmann's sage,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,"Sun , Part Shade","Dry , Moist","Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00802,Salvia farinacea,mealycup sage,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Moist,"Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00803,Salvia lyrata,lyreleaf sage,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,"Low , Medium","Sun , Part Shade , Shade","Dry , Moist","Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00804,Salvia roemeriana,cedar sage,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Part Shade,Dry,"Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00805,Salvia texana,Texas sage,Herb,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,"Sun , Part Shade",Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00806,Sambucus nigra,black elderberry,Shrub,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,Medium,Part Shade,Wet,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00807,Samolus ebracteatus,limewater brookweed,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00808,Samolus valerandi,seaside brookweed,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00809,Sanicula canadensis,Canadian blacksnakeroot,Herb,Biennial,"May , Jun , Jul",May,Jul,May;Jun;Jul,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00810,Sapindus saponaria,Sapindus saponaria L.,Tree,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00811,Schedonnardus paniculatus,tumblegrass,Grass/Grass-like,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00812,Schizachyrium scoparium,little bluestem,Grass/Grass-like,Perennial,"Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jun,Dec,Jun;Jul;Aug;Sep;Oct;Nov;Dec,no,yes,yes,yes,Low,"Sun , Part Shade",Dry,"Birds , Butterflies","Ottoe Skipper, Indian Skipper, Crossline Skipper, Dusted Skipper, Cobweb butterfly, Dixie skipper",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00813,Schoenocaulon drummondii,Schoenocaulon drummondii A. Gray,Herb,Perennial,,,,,no,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00814,Schoenocaulon texanum,Texas feathershank,Herb,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00815,Schoenoplectus californicus,California bulrush,Herb,Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,High,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00816,Schoenoplectus tabernaemontani,softstem bulrush,Grass/Grass-like,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,High,Sun,Wet,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00817,Scleria verticillata,low nutrush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00818,Scutellaria drummondii,Drummond's skullcap,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00819,Scutellaria drummondii var. drummondii,Drummond's skullcap,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00820,Scutellaria drummondii var. edwardsiana B,Drummond's skullcap,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00821,Scutellaria wrightii,Wright's skullcap,Shrub,Perennial,"Mar , Apr , May , Jun , Jul",Mar,Jul,Mar;Apr;May;Jun;Jul,yes,yes,no,no,Low,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00822,Sedum nuttallianum,yellow stonecrop,Herb,Annual,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00823,Selaginella apoda,meadow spikemoss,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00824,Selaginella arenicola,Selaginella arenicola Underw.,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00825,Senecio ampullaceus,Senecio ampullaceus Hook.,Herb,Annual,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00826,Senegalia roemeriana,roundflower catclaw,"Shrub,Tree",Perennial,"Apr , May , Jun , Jul , Aug",Apr,Aug,Apr;May;Jun;Jul;Aug,yes,yes,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00827,Senna lindheimeriana,velvet leaf senna,Shrub,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,Low,"Sun , Part Shade",Dry,"Birds , Butterflies","Sleepy Orange, Sulphur butterflies",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00828,Senna roemeriana,twoleaf senna,Shrub,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,"Birds , Butterflies",Various Sulphur butterflies,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00829,Sesbania drummondii,poisonbean,Shrub,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00830,Sesbania herbacea,bigpod sesbania,Subshrub,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00831,Setaria italica,foxtail millet,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00832,Setaria leucopila,streambed bristlegrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00833,Setaria parviflora,marsh bristlegrass,Grass/Grass-like,Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,Medium,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00834,Setaria reverchonii,Reverchon's bristlegrass,Grass/Grass-like,Perennial,"Mar , Apr , May , Sep , Oct , Nov",Mar,Nov,Mar;Apr;May;Sep;Oct;Nov,yes,no,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00835,Setaria scheelei,southwestern bristlegrass,Grass/Grass-like,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,"Low , Medium","Part Shade , Shade","Dry , Moist",Birds,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00836,Seymeria texana,Seymeria texana (A. Gray) Pennell,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00837,Sibara virginica,Sibara virginica (L.) Rollins,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00838,Sida abutifolia,spreading fanpetals,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00839,Sida spinosa,Sida spinosa L.,Subshrub,Annual,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00840,Sideroxylon lanuginosum,gum bully,"Shrub,Tree",Perennial,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,"Low , Medium","Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00841,Silene antirrhina,Silene antirrhina L.,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00842,Silphium integrifolium,Silphium integrifolium Michx.,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00843,Silphium laciniatum,Silphium laciniatum L.,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,Sun,Dry,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00844,Silphium radula,Silphium radula Nutt.,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,Sun,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00845,Silybum marianum,blessed milkthistle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00846,Simsia calva,awnless bushsunflower,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,,Sun,Dry,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00847,Sisymbrium irio,London rocket,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00848,Sisyrinchium biforme,wiry blue-eyed grass,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00849,Sisyrinchium chilense,swordleaf blue-eyed grass,Herb,Perennial,,,,,no,no,no,no,,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00850,Sisyrinchium langloisii,roadside blue-eyed grass,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00851,Smilax bona var. bona,saw greenbrier,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00852,Smilax bona-nox,saw greenbrier,Vine,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Medium,Shade,"Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00853,Smilax tamnoides,bristly greenbrier,"Shrub,Vine",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00854,Solanum americanum,Solanum americanum Mill.,Subshrub,Annual,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Jan,Nov,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00855,Solanum dimidiatum,western horsenettle,Herb,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00856,Solanum douglasii,greenspot nightshade,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00857,Solanum elaeagnifolium,silverleaf nightshade,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00858,Solanum ptycanthum,West Indian nightshade,Herb,Annual,"Jun , Jul , Aug , Sep , Oct , Nov",Jun,Nov,Jun;Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,,,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00859,Solanum rostratum,buffalobur nightshade,Herb,Annual,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Sun,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00860,Solanum triquetrum,Texas nightshade,"Herb,Vine",Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00861,Solidago altissima,Canada goldenrod,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Medium,"Sun , Part Shade",Moist,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00862,Solidago gigantea,giant goldenrod,Herb,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,Medium,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00863,Solidago juliae,Julia's goldenrod,Herb,Perennial,"Feb , Mar , Apr , Aug , Sep , Oct",Feb,Oct,Feb;Mar;Apr;Aug;Sep;Oct,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00864,Solidago nemoralis,gray goldenrod,Herb,Perennial,"Jun , Jul , Aug , Sep , Oct",Jun,Oct,Jun;Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,"Sun , Part Shade , Shade",Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00865,Solidago radula,western rough goldenrod,Herb,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00866,Sonchus asper,spiny sowthistle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00867,Sonchus oleraceus,common sowthistle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00868,Sophora secundiflora,mescal bean,"Shrub,Tree",Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,"Low , Medium","Sun , Part Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00869,Sorghastrum elliottii,slender Indiangrass,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00870,Sorghastrum nutans,Indiangrass,Grass/Grass-like,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,Medium,"Sun , Part Shade , Shade","Dry , Moist",Butterflies,Pepper-and-Salt Skipper butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00871,Sorghum halepense,Johnsongrass,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00872,Sphaeralcea lindheimeri,Sphaeralcea lindheimeri A. Gray,Subshrub,Perennial,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,"Low , Medium","Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00873,Spigelia hedyotidea,prairie pinkroot,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00874,Spiranthes cernua,Spiranthes cernua (L.) Rich.,Herb,Perennial,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,High,Sun,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00875,Spirodela polyrrhiza,common duckmeat,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00876,Sporobolus clandestinus,Sporobolus clandestinus (Biehler) Hitchc.,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00877,Sporobolus compositus,composite dropseed,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00878,Sporobolus compositus var. compositus,composite dropseed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00879,Sporobolus vaginiflorus,poverty dropseed,Grass/Grass-like,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00880,Sporobolus vaginiflorus var. ozarkanus,Ozark dropseed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00881,Stachys crenata,mousesear,Herb,Annual,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00882,Stellaria media,common chickweed,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00883,Stellaria prostrata,prostrate starwort,Herb,Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00884,Stenaria nigricans,diamond-flowers,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00885,Stenaria nigricans var. nigricans,diamondflowers,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00886,Stenosiphon linifolius,false gaura,Herb,Perennial,"Jul , Aug , Sep",Jul,Sep,Jul;Aug;Sep,no,yes,yes,no,,Sun,Dry,"Butterflies , Hummingbirds",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00887,Stillingia texana,Texas toothleaf,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00888,Styphnolobium affine,Eve's necklacepod,Tree,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00889,Styrax platanifolius,Styrax platanifolius Engelm.,Shrub,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00890,Symphoricarpos orbiculatus,coralberry,Shrub,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,"Low , Medium","Part Shade , Shade","Dry , Moist",Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00891,Symphyotrichum drummondii,Drummond's aster,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00892,Symphyotrichum drummondii var. texanum,Drummond's aster,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00893,Symphyotrichum ericoides,white heath aster,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Low,Sun,Dry,Butterflies,Pearl Crescent,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00894,Symphyotrichum ericoides var. ericoides,white heath aster,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00895,Symphyotrichum lanceolatum,white panicle aster,Herb,Perennial,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00896,Symphyotrichum oblongifolium,Symphyotrichum oblongifolium (Nutt.) G.L. Nesom,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Low,"Sun , Part Shade","Dry , Moist",,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00897,Symphyotrichum patens,Symphyotrichum patens (Aiton) G.L. Nesom,Herb,Perennial,"Aug , Sep , Oct , Nov , Dec",Aug,Dec,Aug;Sep;Oct;Nov;Dec,no,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00898,Symphyotrichum sericeum,western silver aster,Herb,Perennial,"Sep , Oct",Sep,Oct,Sep;Oct,no,no,yes,no,,"Sun , Part Shade",Dry,Butterflies,Pearl Crescent (Phyciodes tharos),,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00899,Symphyotrichum subulatum,Symphyotrichum subulatum (Michx.) G.L. Nesom,Herb,"Annual,Biennial","Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,Medium,"Part Shade , Shade",Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00900,Taraxacum officinale,common dandelion,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00901,Taxodium distichum,bald cypress,Tree,Perennial,Apr,Apr,Apr,Apr,yes,no,no,no,Medium,"Sun , Part Shade",Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00902,Tecoma stans,yellow trumpetbush,Shrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct , Nov",Apr,Nov,Apr;May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,"Sun , Part Shade",Dry,"Butterflies , Hummingbirds",Dogface butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00903,Tephrosia lindheimeri,Lindheimer's hoarypea,Subshrub,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Part Shade,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00904,Tephrosia potosina,Edwards Plateau hoarypea,"Herb,Subshrub",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00905,Tetragonotheca texana,squarebud daisy,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00906,Tetraneuris acaulis,Tetraneuris acaulis (Pursh) Greene,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00907,Tetraneuris linearifolia,fineleaf fournerved daisy,Herb,Annual,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00908,Tetraneuris scaposa,stemmy four-nerve daisy,Herb,Perennial,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00909,Tetraneuris scaposa var. scaposa,stemmy four-nerve daisy,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00910,Teucrium canadense,Canada germander,Herb,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,High,Part Shade,Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00911,Thamnosma texana,rue of the mountains,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,Butterflies,Eastern Black Swallowtail.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00912,Thelesperma ambiguum,Thelesperma ambiguum A. Gray,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00913,Thelesperma filifolium,stiff greenthread,Herb,"Annual,Perennial","Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Oct , Nov , Dec",Feb,Dec,Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec,yes,yes,yes,yes,Low,Sun,Dry,Butterflies,Dwarf Yellow butterfly.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00914,Thelesperma filifolium var. filifolium,stiff greenthread,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00915,Thelesperma simplicifolium,slender greenthread,Herb,Perennial,"May , Jun , Jul , Aug , Sep",May,Sep,May;Jun;Jul;Aug;Sep,yes,yes,yes,no,Low,Sun,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00916,Thelocactus bicolor,Thelocactus bicolor (Galeotti ex N.E. Pfeiffer) Britton & Rose,Cactus/Succulent,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00917,Thelocactus setispinus,miniature barrel cactus,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00918,Thelypteris kunthii,Thelypteris kunthii (Desv.) Morton,Fern,Perennial,,,,,no,no,no,no,Medium,"Part Shade , Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00919,Thelypteris ovata,ovate marsh fern,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00920,Thelypteris ovata var. lindheimeri,Lindheimer's marsh fern,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00921,Thymophylla pentachaeta,Thymophylla pentachaeta (DC.) Small,"Herb,Subshrub",Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00922,Tidestromia lanuginosa,woolly tidestromia,Herb,Annual,"Jan , Feb , Mar , Apr , May , Jun , Jul , Aug , Sep , Dec",Jan,Dec,Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Dec,yes,yes,yes,yes,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00923,Tilia americana,American basswood,Tree,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00924,Tilia americana var. caroliniana,Carolina basswood,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00925,Tillandsia recurvata,small ballmoss,Herb,Perennial,"Jun , Jul , Aug",Jun,Aug,Jun;Jul;Aug,no,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00926,Tillandsia usneoides,Spanish moss,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00927,Tinantia anomala,widowstears,Herb,Annual,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,"Low , Medium",Part Shade,Moist,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00928,Tiquilia canescens,Tiquilia canescens (DC.) A.T. Richardson,Subshrub,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00929,Torilis arvensis,spreading hedgeparsley,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00930,Toxicodendron radicans,eastern poison ivy,"Shrub,Vine",Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,"Part Shade , Shade",Moist,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00931,Tradescantia edwardsiana,plateau spiderwort,Herb,Perennial,"Feb , Mar , Apr , May",Feb,May,Feb;Mar;Apr;May,yes,no,no,yes,,Part Shade,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00932,Tradescantia gigantea,giant spiderwort,Herb,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Medium,"Sun , Part Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00933,Tradescantia hirsutiflora,Tradescantia hirsutiflora Bush,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00934,Tradescantia humilis,Texas spiderwort,Herb,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00935,Tradescantia occidentalis,prairie spiderwort,Herb,Perennial,"Jun , Jul",Jun,Jul,Jun;Jul,no,yes,no,no,Low,"Sun , Part Shade",Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00936,Tradescantia pedicellata,Tradescantia pedicellata Celarier,Herb,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00937,Tragia betonicifolia,betonyleaf noseburn,Herb,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00938,Tragia brevispica,shortspike noseburn,"Herb,Vine",Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00939,Tragia nigricans,Tragia nigricans Bush,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00940,Tragia ramosa,branched noseburn,Herb,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00941,Tridens albescens,white tridens,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep , Oct",Mar,Oct,Mar;Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Medium,Part Shade,Moist,Birds,The Grass Family is an essential larval food for most branded skippers and most of the satyrs.,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00942,Tridens buckleyanus,Buckley's fluffgrass,Grass/Grass-like,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00943,Tridens eragrostoides,lovegrass tridens,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00944,Tridens flavus,purpletop tridens,Grass/Grass-like,Perennial,"Aug , Sep , Oct , Nov",Aug,Nov,Aug;Sep;Oct;Nov,no,yes,yes,no,Low,Part Shade,Dry,Butterflies,"Cross-line skipper, Broad-winged skipper, Little Glassywing skipper, Large Wood Nymph.",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00945,Tridens muticus,slim tridens,Grass/Grass-like,Perennial,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00946,Tridens texanus,Texas fluffgrass,Grass/Grass-like,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00947,Trifolium repens,white clover,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00948,Triodanis biflora,small Venus' looking-glass,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00949,Triodanis coloradoensis,Colorado Venus' looking-glass,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,,,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00950,Triodanis leptocarpa,Triodanis leptocarpa (Nutt.) Nieuwl.,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00951,Triodanis perfoliata,Triodanis perfoliata (L.) Nieuwl.,Herb,Annual,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00952,Tripsacum dactyloides,eastern gamagrass,Grass/Grass-like,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,High,Part Shade,Moist,Butterflies,Bunchgrass Skipper,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00953,Typha domingensis,southern cattail,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00954,Typha latifolia,broadleaf cattail,Grass/Grass-like,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,High,"Sun , Part Shade",Wet,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00955,Ulmus americana,Ulmus americana L.,Tree,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,High,"Sun , Part Shade",Moist,"Birds , Butterflies","Mourning Cloak, Columbia silkmoth, Question Mark butterfly, Painted Lady butterfly, Comma buterfly.",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00956,Ulmus crassifolia,cedar elm,Tree,Perennial,"Jul , Aug , Sep , Oct",Jul,Oct,Jul;Aug;Sep;Oct,no,yes,yes,no,Medium,Part Shade,Moist,Butterflies,"Mourning Cloak, Question Mark",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00957,Ulmus rubra,Ulmus rubra Muhl.,Tree,Perennial,"Jan , Feb , Mar , Apr",Jan,Apr,Jan;Feb;Mar;Apr,yes,no,no,yes,High,"Sun , Part Shade",Moist,"Birds , Butterflies","Mourning Cloak, Columbia silkmoth",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00958,Ungnadia speciosa,Mexican buckeye,Tree,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,Butterflies,Henry's Elfin butterfly,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00959,Urochloa texana,Texas signalgrass,Grass/Grass-like,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00960,Utricularia gibba,humped bladderwort,Herb,Perennial,"May , Jun , Jul , Aug",May,Aug,May;Jun;Jul;Aug,yes,yes,no,no,,Sun,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00961,Vachellia farnesiana,sweet acacia,Tree,Perennial,"Jan , Feb , Mar , Apr",Jan,Apr,Jan;Feb;Mar;Apr,yes,no,no,yes,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00962,Valerianella amarella,hairy cornsalad,Herb,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00963,Vallisneria americana,American eelgrass,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep",Apr,Sep,Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,High,"Sun , Part Shade",Wet,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00964,Verbena canescens,gray vervain,Herb,Perennial,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,"Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00965,Verbena halei,Verbena halei Small,Shrub,Perennial,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00966,Verbena scabra,sandpaper vervain,"Herb,Subshrub",Annual,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00967,Verbesina encelioides,Verbesina encelioides (Cav.) Benth. & Hook. f. ex A. Gray,Herb,Annual,"Apr , May , Jun , Jul , Aug , Sep , Oct",Apr,Oct,Apr;May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00968,Verbesina encelioides f. ex A,golden crownbeard,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00969,Verbesina lindheimeri,Lindheimer's crownbeard,Herb,Perennial,"Sep , Oct , Nov",Sep,Nov,Sep;Oct;Nov,no,no,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00970,Verbesina virginica,white crownbeard,Herb,"Perennial,Biennial","Jul , Aug , Sep , Oct , Nov , Dec",Jul,Dec,Jul;Aug;Sep;Oct;Nov;Dec,no,yes,yes,yes,"Low , Medium","Part Shade , Shade","Dry , Moist",Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00971,Verbesina virginica var. virginica,white crownbeard,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00972,Vernonia baldwinii,Baldwin's ironweed,Herb,Perennial,"Jul , Aug , Sep , Oct , Nov",Jul,Nov,Jul;Aug;Sep;Oct;Nov,no,yes,yes,no,Low,Sun,Moist,"Birds , Butterflies",,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00973,Vernonia lindheimeri,woolly ironweed,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,Low,Sun,Dry,Butterflies,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00974,Veronica anagallis-aquatica,Veronica anagallis-aquatica L.,Herb,Biennial,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00975,Viburnum rufidulum,rusty blackhaw,Tree,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Low,Part Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00976,Vicia ludoviciana,Louisiana vetch,Vine,Annual,,,,,no,no,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00977,Viguiera dentata,toothleaf goldeneye,Herb,Perennial,"Oct , Nov",Oct,Nov,Oct;Nov,no,no,yes,no,Medium,Part Shade,Dry,"Birds , Butterflies","Bordered patch butterfly, Cassius Blue butterfly",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00978,Viguiera dentata var. dentata,toothleaf goldeneye,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00979,Vinca major,bigleaf periwinkle,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00980,Viola affinis,Viola affinis Leconte,Herb,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00981,Viola missouriensis,Viola missouriensis Greene,Herb,"Annual,Perennial","Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,Medium,"Part Shade , Shade",Moist,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00982,Vitis cinerea,graybark grape,Vine,Perennial,"Apr , May",Apr,May,Apr;May,yes,no,no,no,Medium,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00983,Vitis cinerea var. cinerea,graybark grape,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00984,Vitis mustangensis,mustang grape,Vine,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Medium,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00985,Vulpia octoflora,sixweeks fescue,Grass/Grass-like,Annual,"Mar , Apr , May , Jun",Mar,Jun,Mar;Apr;May;Jun,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00986,Warnockia scutellarioides,prairie brazosmint,Herb,Annual,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,,Part Shade,Moist,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00987,Wedelia acapulcensis,Wedelia acapulcensis Kunth var. hispida auct. non (Kunth) Strother,Herb,Perennial,"May , Jun , Jul , Aug , Sep , Oct , Nov",May,Nov,May;Jun;Jul;Aug;Sep;Oct;Nov,yes,yes,yes,no,Low,"Sun , Part Shade","Dry , Moist",Butterflies,"Bordered Patch, Sierran Metalmark, Lacinia Patch butterfly",,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00988,Wedelia acapulcensis var. hispida,hairy wedelia,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00989,Wisteria sinensis,Chinese wisteria,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00990,Wolffia brasiliensis,Brazilian watermeal,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_00991,Wolffia columbiana,Columbian watermeal,Herb,Perennial,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00992,Xanthium strumarium,rough cocklebur,Herb,Annual,"Aug , Sep , Oct",Aug,Oct,Aug;Sep;Oct,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00993,Yucca arkansana,Arkansas yucca,Cactus/Succulent,Perennial,"May , Jun , Jul , Aug , Sep , Oct",May,Oct,May;Jun;Jul;Aug;Sep;Oct,yes,yes,yes,no,Low,Part Shade,Dry,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00994,Yucca constricta,Yucca constricta Buckley,Shrub,Perennial,"Apr , May , Jun , Jul",Apr,Jul,Apr;May;Jun;Jul,yes,yes,no,no,Low,Sun,Dry,Butterflies,Yucca giant skipper butterfly,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00995,Yucca pallida,Yucca pallida McKelvey,Cactus/Succulent,Perennial,"May , Jun",May,Jun,May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,Butterflies,Yucca giant skipper butterfly,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00996,Yucca rupicola,Texas yucca,Cactus/Succulent,Perennial,"Apr , May , Jun",Apr,Jun,Apr;May;Jun,yes,yes,no,no,Low,"Sun , Part Shade",Dry,Butterflies,Kendall's yucca skipper,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_00997,Yucca torreyi,Yucca torreyi Shafer,Shrub,Perennial,"Mar , Apr , May",Mar,May,Mar;Apr;May,yes,no,no,no,Low,Sun,Dry,,,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00998,Yucca treculeana,Yucca treculeana Carrière,Cactus/Succulent,Perennial,"Jan , Feb , Mar , Apr , Dec",Jan,Dec,Jan;Feb;Mar;Apr;Dec,yes,no,no,yes,Medium,Part Shade,Dry,Butterflies,"Yucca giant skipper butterfly, Ursine giant skipper, Strecker's giant skipper.",,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_00999,Zannichellia palustris,horned pondweed,Herb,Perennial,"Mar , Apr , May , Jun , Jul , Aug",Mar,Aug,Mar;Apr;May;Jun;Jul;Aug,yes,yes,no,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_01000,Zanthoxylum hirsutum,Zanthoxylum hirsutum Buckley,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Low,Part Shade,Dry,Butterflies,Giant swallowtail butterfly.,,Lady Bird Johnson Wildflower Center scrape,B
+PLANT_01001,Zigadenus nuttallii,Nuttall's deathcamas,Herb,Perennial,"Feb , Mar , Apr",Feb,Apr,Feb;Mar;Apr,yes,no,no,yes,,Part Shade,,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_01002,Zizania texana,Texas wildrice,Grass/Grass-like,Perennial,,,,,no,no,no,no,High,Sun,Wet,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_01003,Zizaniopsis miliacea,giant cutgrass,Grass/Grass-like,Perennial,"Mar , Apr , May , Jun , Jul , Aug , Sep",Mar,Sep,Mar;Apr;May;Jun;Jul;Aug;Sep,yes,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_01004,Ziziphus obtusifolia,lotebush,Tree,Perennial,"Mar , Apr",Mar,Apr,Mar;Apr,yes,no,no,no,Low,Part Shade,Dry,Birds,,,Lady Bird Johnson Wildflower Center scrape,A
+PLANT_01005,Ziziphus obtusifolia var. obtusifolia,lotebush,,,,,,,no,no,no,no,,,,,,,,D
+PLANT_01006,Zornia bracteata,viperina,Herb,Annual,"Jun , Jul , Aug , Sep",Jun,Sep,Jun;Jul;Aug;Sep,no,yes,yes,no,,,,,,,Lady Bird Johnson Wildflower Center scrape,A

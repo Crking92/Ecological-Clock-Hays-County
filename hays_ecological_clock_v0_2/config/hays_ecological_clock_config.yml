@@ -1,0 +1,81 @@
+# Hays County Ecological Clock live-pull configuration v0.2
+project:
+  name: Hays County Ecological Clock
+  version: v0.2
+  public_facing: true
+  source_of_truth_note: GitHub package files trump older workbook-only outputs once committed.
+
+geography:
+  county: Hays County
+  state: Texas
+  boundary_geojson: data/boundaries/processed/hays_county_boundary.geojson
+  boundary_bbox_wgs84:
+    west: -98.29754000
+    south: 29.75241000
+    east: -97.70871000
+    north: 30.35621000
+  ebird_region_code: US-TX-209
+
+species_sources:
+  plant_master: data/processed/species_master_hays.csv
+  plant_clock: data/processed/plant_clock_hays.csv
+  interactions: data/processed/interaction_hays.csv
+  birds: data/processed/bird_clock_hays.csv
+
+prism:
+  resolution: 4km
+  daily_start_date: '2020-01-01'
+  normals_period: '1991-2020'
+  variables:
+    - ppt
+    - tmin
+    - tmax
+    - tmean
+    - vpdmin
+    - vpdmax
+  output_dir: data/live/prism
+  derived_output: data/live/prism/climate_clock_hays_weekly.csv
+
+usanpn:
+  request_source: Hays County Ecological Clock
+  start_year: 2015
+  output_dir: data/live/usanpn
+  phenophases:
+    - Leaves
+    - Open flowers
+    - Fruits
+    - Ripe fruits
+    - Recent fruit or seed drop
+
+inaturalist:
+  use_place_id_if_known: null
+  fallback_bbox_from_boundary: true
+  start_year: 2015
+  recent_windows_days: [30, 60, 90]
+  quality_grades_primary: [research]
+  quality_grades_secondary: [needs_id, casual]
+  output_dir: data/live/inaturalist
+  taxon_groups:
+    - plants
+    - insects
+
+gbif:
+  start_year: 2015
+  output_dir: data/live/gbif
+  public_api_first: true
+  formal_download_later: true
+  credential_env_vars:
+    username: GBIF_USER
+    email: GBIF_EMAIL
+    password: GBIF_PWD
+
+ebird:
+  region_code: US-TX-209
+  recent_days: 30
+  include_provisional: true
+  output_dir: data/live/ebird
+  api_key_env_var: EBIRD_API_KEY
+
+lookouts:
+  future_layer: plants_insects_to_watch_when_timing_seems_off
+  enabled_for_public_dashboard: true

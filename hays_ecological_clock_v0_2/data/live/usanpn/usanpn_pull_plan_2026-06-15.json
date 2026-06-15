@@ -1,0 +1,14 @@
+{
+  "request_source": "Hays County Ecological Clock",
+  "start_year": 2015,
+  "phenophases": [
+    "Leaves",
+    "Open flowers",
+    "Fruits",
+    "Ripe fruits",
+    "Recent fruit or seed drop"
+  ],
+  "species_to_match_csv": "data/live/usanpn/usanpn_species_to_match.csv",
+  "target_output": "data/live/usanpn/usanpn_hays_phenology_records.csv",
+  "note": "Match plant names to USA-NPN species IDs, then request phenology records for target phenophases."
+}

@@ -1,0 +1,58 @@
+us_l4_code,us_l4_name,us_l3_code,us_l3_name,na_l2_name,na_l1_name,state_name,epa_region,dashboard_status
+23a,Chihuahuan Desert Slopes,23,Arizona/New Mexico Mountains,UPPER GILA MOUNTAINS,TEMPERATE SIERRAS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+23b,Madrean Lower Montane Woodlands,23,Arizona/New Mexico Mountains,UPPER GILA MOUNTAINS,TEMPERATE SIERRAS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+24a,Chihuahuan Basins and Playas,24,Chihuahuan Deserts,WARM DESERTS,NORTH AMERICAN DESERTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+24b,Chihuahuan Desert Grasslands,24,Chihuahuan Deserts,WARM DESERTS,NORTH AMERICAN DESERTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+24c,Low Mountains and Bajadas,24,Chihuahuan Deserts,WARM DESERTS,NORTH AMERICAN DESERTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+24d,Chihuahuan Montane Woodlands,24,Chihuahuan Deserts,WARM DESERTS,NORTH AMERICAN DESERTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+24e,Stockton Plateau,24,Chihuahuan Deserts,WARM DESERTS,NORTH AMERICAN DESERTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+24f,Rio Grande Floodplain,24,Chihuahuan Deserts,WARM DESERTS,NORTH AMERICAN DESERTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+25b,Rolling Sand Plains,25,High Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+25e,Canadian/Cimarron High Plains,25,High Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+25i,Llano Estacado,25,High Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+25j,Shinnery Sands,25,High Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+25k,Arid Llano Estacado,25,High Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+26a,Canadian/Cimarron Breaks,26,Southwestern Tablelands,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+26b,Flat Tablelands and Valleys,26,Southwestern Tablelands,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+26c,"Caprock Canyons, Badlands, and Breaks",26,Southwestern Tablelands,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+26d,Semiarid Canadian Breaks,26,Southwestern Tablelands,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+27h,Red Prairie,27,Central Great Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+27i,Broken Red Plains,27,Central Great Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+27j,Limestone Plains,27,Central Great Plains,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+29b,Eastern Cross Timbers,29,Cross Timbers,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+29c,Western Cross Timbers,29,Cross Timbers,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+29d,Grand Prairie,29,Cross Timbers,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+29e,Limestone Cut Plain,29,Cross Timbers,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+29f,Carbonate Cross Timbers,29,Cross Timbers,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+30a,Edwards Plateau Woodland,30,Edwards Plateau,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+30b,Llano Uplift,30,Edwards Plateau,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+30c,Balcones Canyonlands,30,Edwards Plateau,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+30d,Semiarid Edwards Plateau,30,Edwards Plateau,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+31a,Northern Nueces Alluvial Plains,31,Southern Texas Plains,TAMAULIPAS-TEXAS SEMIARID PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+31b,Semiarid Edwards Bajada,31,Southern Texas Plains,TAMAULIPAS-TEXAS SEMIARID PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+31c,Texas-Tamaulipan Thornscrub,31,Southern Texas Plains,TAMAULIPAS-TEXAS SEMIARID PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+31d,Rio Grande Floodplain and Terraces,31,Southern Texas Plains,TAMAULIPAS-TEXAS SEMIARID PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+32a,Northern Blackland Prairie,32,Texas Blackland Prairies,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+32b,Southern Blackland/Fayette Prairie,32,Texas Blackland Prairies,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+32c,Floodplains and Low Terraces,32,Texas Blackland Prairies,SOUTH CENTRAL SEMI-ARID PRAIRIES,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+33a,Northern Post Oak Savanna,33,East Central Texas Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+33b,Southern Post Oak Savanna,33,East Central Texas Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+33c,San Antonio Prairie,33,East Central Texas Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+33d,Northern Prairie Outliers,33,East Central Texas Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+33e,Bastrop Lost Pines,33,East Central Texas Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+33f,Floodplains and Low Terraces,33,East Central Texas Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34a,Northern Humid Gulf Coastal Prairies,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34b,Southern Subhumid Gulf Coastal Prairies,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34c,Floodplains and Low Terraces,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34d,Coastal Sand Plain,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34e,Lower Rio Grande Valley,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34f,Lower Rio Grande Alluvial Floodplain,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34g,Texas-Louisiana Coastal Marshes,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34h,Mid-Coast Barrier Islands and Coastal Marshes,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+34i,Laguna Madre Barrier Islands and Coastal Marshes,34,Western Gulf Coastal Plain,TEXAS-LOUISIANA COASTAL PLAIN,GREAT PLAINS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+35a,Tertiary Uplands,35,South Central Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+35b,Floodplains and Low Terraces,35,South Central Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+35c,Pleistocene Fluvial Terraces,35,South Central Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+35e,Southern Tertiary Uplands,35,South Central Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+35f,Flatwoods,35,South Central Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer
+35g,Red River Bottomlands,35,South Central Plains,SOUTHEASTERN USA PLAINS,EASTERN TEMPERATE FORESTS,Texas,6,Texas reference; clip to Hays County after adding Hays boundary layer

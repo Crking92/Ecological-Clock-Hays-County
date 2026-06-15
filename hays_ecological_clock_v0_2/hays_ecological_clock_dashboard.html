@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hays County Ecological Clock v0.2</title>
+<style>
+body { font-family: system-ui, -apple-system, Segoe UI, sans-serif; margin: 0; background: #f7f7f4; color: #17201a; }
+header { background: #263b2a; color: white; padding: 2rem; }
+main { padding: 1.25rem; max-width: 1200px; margin: auto; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px,1fr)); gap: 1rem; }
+.card { background: white; border: 1px solid #ddd; border-radius: 14px; padding: 1rem; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.big { font-size: 2.1rem; font-weight: 750; }
+small { color: #536157; }
+table { width:100%; border-collapse: collapse; background: white; }
+th, td { padding:.55rem; border-bottom:1px solid #e6e6e6; text-align:left; vertical-align: top; }
+th { background:#e9efe7; }
+.badge { display:inline-block; padding:.2rem .5rem; border-radius:999px; background:#e4eddf; margin:.1rem; }
+.section { margin: 1.5rem 0; }
+</style>
+</head>
+<body>
+<header>
+<h1>Hays County Ecological Clock</h1>
+<p>Version 0.1 public starter: plants, interactions, birds, soils, ecoregions, and lookout rules.</p>
+</header>
+<main>
+<section class="grid">
+<div class="card"><small>Plant master</small><div class="big">1,006</div><p>USDA + Wildflower Center merged rows.</p></div>
+<div class="card"><small>Filtered plant interactions</small><div class="big">14,432</div><p>Central Texas GloBI rows linked to Hays-listed plants.</p></div>
+<div class="card"><small>Hays birds</small><div class="big">382</div><p>eBird county file rows detected in Hays County.</p></div>
+<div class="card"><small>Soil interpretation signals</small><div class="big">78,896</div><p>SSURGO interpretation rows useful for ecological context.</p></div>
+</section>
+<section class="section card">
+<h2>What this dashboard can say first</h2>
+<p><strong>Plain version:</strong> which Hays County native plants are blooming, what animals are linked to them, what bird food groups may depend on those links, and what people should watch when the timing seems off.</p>
+</section>
+<section class="section">
+<h2>Top interaction types</h2>
+<table><thead><tr><th>Interaction type</th><th>Rows</th></tr></thead><tbody>
+<tr><td>adjacentTo</td><td>8,061</td></tr><tr><td>interactsWith</td><td>2,573</td></tr><tr><td>hasHost</td><td>2,022</td></tr><tr><td>visitsFlowersOf</td><td>663</td></tr><tr><td>eats</td><td>658</td></tr><tr><td>visits</td><td>402</td></tr><tr><td>parasiteOf</td><td>51</td></tr><tr><td>allelopathOf</td><td>1</td></tr><tr><td>pollinates</td><td>1</td></tr>
+</tbody></table>
+</section>
+<section class="section">
+<h2>Bloom month coverage from Wildflower Center file</h2>
+<div class="card">
+<span class="badge">Jan: 19</span><span class="badge">Feb: 59</span><span class="badge">Mar: 247</span><span class="badge">Apr: 399</span><span class="badge">May: 453</span><span class="badge">Jun: 429</span><span class="badge">Jul: 390</span><span class="badge">Aug: 363</span><span class="badge">Sep: 320</span><span class="badge">Oct: 240</span><span class="badge">Nov: 119</span><span class="badge">Dec: 24</span>
+</div>
+</section>
+<section class="section">
+<h2>Starter lookout notices</h2>
+<table><thead><tr><th>Notice</th><th>Trigger</th><th>Public message</th></tr></thead><tbody>
+<tr><td>flower-insect mismatch</td><td>LBJ/USA-NPN/iNaturalist flowers active, but local insect observations are low</td><td>Flowers are open. Watch whether bees, flies, butterflies, beetles, and wasps are actually visiting them.</td></tr><tr><td>rain-pulse watch</td><td>PRISM 7-day rainfall after dry 30-day period</td><td>Recent rain may trigger germination, fresh growth, blooms, fungi, or insect activity.</td></tr><tr><td>heat-shortened bloom</td><td>PRISM max temperature anomaly high during active bloom window</td><td>Heat may shorten bloom windows. Watch whether flowers fade quickly or seed set looks weak.</td></tr><tr><td>milkweed-monarch timing</td><td>milkweed active but monarch observations missing/low</td><td>Milkweeds are ready. Watch whether monarchs, queen butterflies, and milkweed insects appear at the same time.</td></tr><tr><td>bird food timing</td><td>insect-eating birds active while insect/caterpillar observations are low</td><td>Insect-eating birds may need caterpillars, beetles, flies, and other soft-bodied insects now.</td></tr><tr><td>seed-head support</td><td>plants in seed window + seed-eating bird groups present</td><td>Seed heads are habitat. Leaving them standing can feed birds and shelter insects.</td></tr>
+</tbody></table>
+</section>
+<section class="section card">
+<h2>Next data layers</h2>
+<ol>
+<li>Clip EPA Level III/IV ecoregions to Hays County after adding a county boundary file.</li>
+<li>Add SSURGO spatial mapunit/component tables to make the soil layer mappable.</li>
+<li>Add PRISM weekly climate signals.</li>
+<li>Add USA-NPN, iNaturalist, GBIF, and eBird live observation pulls.</li>
+</ol>
+</section>
+
+<section class="card">
+  <h2>v0.2 Live-Pull Setup</h2>
+  <p>This package now includes Hays County boundary GeoJSON, clipped Level IV ecoregions, PRISM/USA-NPN/iNaturalist/GBIF/eBird script templates, and a credential-safe configuration file.</p>
+  <ul>
+    <li>PRISM: 4 km daily climate, 2020-present, 1991-2020 normals.</li>
+    <li>USA-NPN: 2015-present phenology setup for leaves, flowers, fruits, ripe fruits, and seed drop.</li>
+    <li>iNaturalist/GBIF/eBird: public/live observation scaffolding for Hays County.</li>
+  </ul>
+</section>
+
+</main>
+</body>
+</html>

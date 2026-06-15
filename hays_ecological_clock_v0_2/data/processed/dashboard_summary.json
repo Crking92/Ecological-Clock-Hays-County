@@ -1,0 +1,222 @@
+{
+  "created_at": "2026-06-15T19:36:54",
+  "project": "Hays County Ecological Clock v0.1",
+  "counts": {
+    "plant_species_master": 1006,
+    "plants_in_usda_hays_file": 810,
+    "plants_in_lbj_native_file": 778,
+    "hays_bird_species_detected": 382,
+    "hays_plant_interactions_filtered": 14432,
+    "ssurgo_interpretation_signals": 78896,
+    "texas_level4_ecoregion_reference_units": 57
+  },
+  "top_interaction_types": [
+    [
+      "adjacentTo",
+      8061
+    ],
+    [
+      "interactsWith",
+      2573
+    ],
+    [
+      "hasHost",
+      2022
+    ],
+    [
+      "visitsFlowersOf",
+      663
+    ],
+    [
+      "eats",
+      658
+    ],
+    [
+      "visits",
+      402
+    ],
+    [
+      "parasiteOf",
+      51
+    ],
+    [
+      "allelopathOf",
+      1
+    ],
+    [
+      "pollinates",
+      1
+    ]
+  ],
+  "plant_habit_counts": [
+    [
+      "Herb",
+      443
+    ],
+    [
+      "Unspecified",
+      228
+    ],
+    [
+      "Grass/Grass-like",
+      107
+    ],
+    [
+      "Shrub",
+      58
+    ],
+    [
+      "Tree",
+      53
+    ],
+    [
+      "Vine",
+      36
+    ],
+    [
+      "Subshrub",
+      23
+    ],
+    [
+      "Herb,Subshrub",
+      15
+    ],
+    [
+      "Cactus/Succulent",
+      13
+    ],
+    [
+      "Shrub,Tree",
+      7
+    ],
+    [
+      "Herb,Fern",
+      7
+    ],
+    [
+      "Herb,Vine",
+      7
+    ]
+  ],
+  "bird_food_guild_counts": [
+    [
+      "aquatic food web",
+      98
+    ],
+    [
+      "mostly insects",
+      89
+    ],
+    [
+      "mixed/unknown",
+      63
+    ],
+    [
+      "seeds + insects",
+      55
+    ],
+    [
+      "prey animals/carrion",
+      30
+    ],
+    [
+      "fruit + insects",
+      17
+    ],
+    [
+      "insects + tree resources",
+      13
+    ],
+    [
+      "nectar + small insects",
+      11
+    ],
+    [
+      "insects + fruit/nectar",
+      6
+    ]
+  ],
+  "bloom_month_counts": {
+    "Jun": 429,
+    "Jul": 390,
+    "Aug": 363,
+    "Sep": 320,
+    "Oct": 240,
+    "Mar": 247,
+    "Apr": 399,
+    "May": 453,
+    "Nov": 119,
+    "Dec": 24,
+    "Feb": 59,
+    "Jan": 19
+  },
+  "notes": [
+    "GitHub files should replace these uploaded files as the source of truth once this package is committed.",
+    "eBird API key is not embedded in any output. Use EBIRD_API_KEY environment variable for live pulls.",
+    "EPA Level IV ecoregions are included as Texas reference data; add a Hays County boundary to clip them precisely.",
+    "SSURGO cinterp was treated as interpretation signals only; mapunit/component files are needed for mapped soil polygons."
+  ],
+  "package_version": "v0.2",
+  "generated_on": "2026-06-15",
+  "project_name": "Hays County Ecological Clock",
+  "boundary": {
+    "name": "Hays County, Texas",
+    "source_file": "data/boundaries/raw/Hays_County_Boundary.zip",
+    "processed_geojson": "data/boundaries/processed/hays_county_boundary.geojson",
+    "crs_output": "EPSG:4326",
+    "bbox_wgs84": {
+      "west": -98.29753999999313,
+      "south": 29.752410000915738,
+      "east": -97.70870999998905,
+      "north": 30.356210000916363
+    },
+    "area_sqkm_approx": 1757.6289892534244
+  },
+  "live_pull_plan": {
+    "prism": {
+      "resolution": "4km",
+      "daily_start": "2020-01-01",
+      "baseline_normals": "1991-2020",
+      "variables": [
+        "ppt",
+        "tmin",
+        "tmax",
+        "tmean",
+        "vpdmin",
+        "vpdmax"
+      ]
+    },
+    "usanpn": {
+      "request_source": "Hays County Ecological Clock",
+      "start_year": 2015,
+      "phenophases": [
+        "Leaves",
+        "Open flowers",
+        "Fruits",
+        "Ripe fruits",
+        "Recent fruit or seed drop"
+      ]
+    },
+    "inaturalist": {
+      "quality": [
+        "research",
+        "needs_id/casual secondary"
+      ],
+      "recent_windows_days": [
+        30,
+        60,
+        90
+      ],
+      "baseline_start_year": 2015
+    },
+    "gbif": {
+      "mode_first": "small_public_api",
+      "mode_later": "formal_download_with_env_credentials"
+    },
+    "ebird": {
+      "region_code": "US-TX-209",
+      "api_key_handling": "environment variable EBIRD_API_KEY only"
+    }
+  },
+  "hays_level4_ecoregion_units_clipped": 2
+}

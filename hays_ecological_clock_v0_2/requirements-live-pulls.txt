@@ -1,0 +1,6 @@
+# Python standard library is enough for starter API pulls.
+# Optional geospatial/data packages for rebuild scripts:
+geopandas
+pandas
+shapely
+pyyaml
